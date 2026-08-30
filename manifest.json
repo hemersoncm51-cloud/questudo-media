@@ -2207,6 +2207,43 @@
       }
     },
     {
+      "id": "qx-qx-f21673233151",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-f21673233151.svg",
+      "alt_text": "Gráfico de barras com tarefas concluídas: equipe A, 12; equipe B, 15; equipe C, 18.",
+      "caption": "Tarefas concluídas por equipe",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "visual_format": "chart",
+        "labels": [
+          "Equipe A",
+          "Equipe B",
+          "Equipe C"
+        ],
+        "series": [
+          {
+            "name": "Tarefas concluídas",
+            "values": [
+              "12",
+              "15",
+              "18"
+            ]
+          }
+        ],
+        "x_label": "Equipes",
+        "y_label": "Número de tarefas",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A quantidade de 18 tarefas da equipe C, indicada exclusivamente no gráfico, é necessária para identificar sua pontuação e participação no total."
+      }
+    },
+    {
       "id": "qx-qx-f5b64cc0e55e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-f5b64cc0e55e.svg",
