@@ -29,6 +29,41 @@
       }
     },
     {
+      "id": "qx-qx-144299159db3",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-144299159db3.svg",
+      "alt_text": "Gráfico de barras com preços antes da campanha: modelo A, 180 reais; B, 210 reais; C, 240 reais; D, 270 reais; E, 300 reais.",
+      "caption": "Preços das calculadoras antes da campanha.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Modelo A",
+          "Modelo B",
+          "Modelo C",
+          "Modelo D",
+          "Modelo E"
+        ],
+        "series": [
+          {
+            "name": "Preço antes da campanha",
+            "values": [
+              180,
+              210,
+              240,
+              270,
+              300
+            ]
+          }
+        ],
+        "x_label": "Modelo de calculadora",
+        "y_label": "Preço (R$)"
+      }
+    },
+    {
       "id": "qx-qx-44dcc531bd74",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-44dcc531bd74.svg",
