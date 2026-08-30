@@ -2244,6 +2244,63 @@
       }
     },
     {
+      "id": "qx-qx-f3e07284a47a",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-f3e07284a47a.svg",
+      "alt_text": "Tabela comparativa de quatro espaços brasileiros, com atividade destacada, bioma ou paisagem e questão ambiental.",
+      "caption": "Atividades e questões ambientais em espaços brasileiros",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Amazônia Legal",
+          "MATOPIBA",
+          "Semiárido",
+          "Pantanal"
+        ],
+        "series": [
+          {
+            "name": "Atividade destacada",
+            "values": [
+              "Extração mineral e pecuária",
+              "Grãos mecanizados",
+              "Pecuária extensiva e agricultura familiar",
+              "Pecuária e turismo"
+            ]
+          },
+          {
+            "name": "Bioma ou paisagem",
+            "values": [
+              "Floresta Amazônica",
+              "Cerrado",
+              "Caatinga",
+              "Pantanal"
+            ]
+          },
+          {
+            "name": "Questão ambiental",
+            "values": [
+              "Desmatamento e garimpo",
+              "Conversão de vegetação nativa",
+              "Escassez hídrica e desertificação",
+              "Alteração do regime de cheias"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "É indispensável cruzar, em uma mesma linha, a atividade, o bioma e a questão ambiental."
+      }
+    },
+    {
       "id": "qx-qx-f5b64cc0e55e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-f5b64cc0e55e.svg",
