@@ -196,6 +196,48 @@
       }
     },
     {
+      "id": "qx-qx-543cbbe18de2",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-543cbbe18de2.svg",
+      "alt_text": "Gráfico de barras com dois indicadores por dia: Dia 1, choveu 1 e serviço concluído 1; Dia 2, choveu 1 e serviço concluído 0; Dia 3, choveu 0 e serviço concluído 1; Dia 4, choveu 0 e serviço concluído 0. Valor 1 significa sim e 0 significa não.",
+      "caption": "Registros da vistoria: 1 = sim; 0 = não.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Dia 1",
+          "Dia 2",
+          "Dia 3",
+          "Dia 4"
+        ],
+        "series": [
+          {
+            "name": "Choveu (P)",
+            "values": [
+              1,
+              1,
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Serviço concluído (Q)",
+            "values": [
+              1,
+              0,
+              1,
+              0
+            ]
+          }
+        ],
+        "x_label": "Dias de vistoria",
+        "y_label": "Registro (0 = não; 1 = sim)"
+      }
+    },
+    {
       "id": "qx-qx-557d9c4a8f74",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-557d9c4a8f74.svg",
