@@ -468,6 +468,87 @@
       }
     },
     {
+      "id": "qx-qx-27d65d56f2c6",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-27d65d56f2c6.svg",
+      "alt_text": "Tabela da operação: valor nominal de R$ 12.000,00; taxa de desconto comercial simples de 2,5% ao mês; prazo de antecipação de 4 meses.",
+      "caption": "Dados para antecipação de título.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 860,
+      "height": 420,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Valor nominal",
+          "Taxa de desconto",
+          "Prazo de antecipação",
+          "Regime"
+        ],
+        "series": [
+          {
+            "name": "Dados da operação",
+            "values": [
+              "R$ 12.000,00",
+              "2,5% ao mês",
+              "4 meses",
+              "Desconto comercial simples"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "nominal",
+            "label": "Valor nominal",
+            "detail": "R$ 12.000,00",
+            "x": 20,
+            "y": 50
+          },
+          {
+            "id": "taxa_prazo",
+            "label": "Taxa e prazo",
+            "detail": "2,5% ao mês por 4 meses",
+            "x": 50,
+            "y": 50
+          },
+          {
+            "id": "liquido",
+            "label": "Valor líquido",
+            "detail": "Valor nominal menos o desconto comercial simples.",
+            "x": 80,
+            "y": 50
+          }
+        ],
+        "edges": [
+          {
+            "from": "nominal",
+            "to": "taxa_prazo",
+            "label": "base do cálculo"
+          },
+          {
+            "from": "taxa_prazo",
+            "to": "liquido",
+            "label": "define o desconto"
+          }
+        ],
+        "legend": [
+          {
+            "label": "Valor nominal",
+            "meaning": "Valor do título antes do desconto."
+          },
+          {
+            "label": "Taxa e prazo",
+            "meaning": "Dados usados para calcular o desconto comercial simples."
+          }
+        ],
+        "visual_dependency": "A tabela fornece o valor nominal, a taxa mensal e o número de meses indispensáveis ao cálculo."
+      }
+    },
+    {
       "id": "qx-qx-2d6a090e63ce",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-2d6a090e63ce.svg",
