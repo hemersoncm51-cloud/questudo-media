@@ -197,6 +197,35 @@
       }
     },
     {
+      "id": "qx-qx-2d6a090e63ce",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-2d6a090e63ce.svg",
+      "alt_text": "Gráfico de barras com a média semanal de empréstimos: antes da abertura aos sábados, 120; após a abertura aos sábados, 185.",
+      "caption": "Média semanal de empréstimos da biblioteca.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 900,
+      "height": 500,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Antes da abertura aos sábados",
+          "Após a abertura aos sábados"
+        ],
+        "series": [
+          {
+            "name": "Empréstimos médios por semana",
+            "values": [
+              120,
+              185
+            ]
+          }
+        ],
+        "x_label": "Período",
+        "y_label": "Número médio de empréstimos"
+      }
+    },
+    {
       "id": "qx-qx-396509ffc33e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-396509ffc33e.svg",
