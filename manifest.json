@@ -745,6 +745,54 @@
       }
     },
     {
+      "id": "qx-qx-3fc8387e231b",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-3fc8387e231b.svg",
+      "alt_text": "Tabela comparativa com quatro períodos: República Velha, Código Eleitoral de 1932, Estado Novo e Constituição de 1988; apresenta regras eleitorais e condições políticas de cada um.",
+      "caption": "Participação eleitoral e ambiente político em períodos republicanos.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 920,
+      "height": 520,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "República Velha (1889-1930)",
+          "Código Eleitoral de 1932",
+          "Estado Novo (1937-1945)",
+          "Constituição de 1988"
+        ],
+        "series": [
+          {
+            "name": "Participação eleitoral",
+            "values": [
+              "Voto aberto; mulheres excluídas",
+              "Voto feminino reconhecido",
+              "Eleições diretas suspensas",
+              "Voto direto ampliado"
+            ]
+          },
+          {
+            "name": "Condição política",
+            "values": [
+              "Coronelismo e controle local",
+              "Reforma eleitoral",
+              "Centralização autoritária",
+              "Redemocratização e direitos políticos"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A comparação entre as linhas de 1932 e do Estado Novo é necessária para reconhecer expansão eleitoral seguida de restrição política."
+      }
+    },
+    {
       "id": "qx-qx-444861673c16",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-444861673c16.svg",
