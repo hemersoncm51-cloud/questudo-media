@@ -1361,6 +1361,45 @@
         "x_label": "Momento",
         "y_label": "Preço em reais"
       }
+    },
+    {
+      "id": "qx-qx-fd12fd7937e1",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-fd12fd7937e1.svg",
+      "alt_text": "Gráfico de barras agrupadas com índices de produção em 1970 e 1980: café 100 e 105; pelotas de minério 100 e 190; celulose 100 e 175.",
+      "caption": "Índice didático de produção por ramo econômico no Espírito Santo, base 1970 igual a 100.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 720,
+      "height": 420,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Café",
+          "Pelotas de minério",
+          "Celulose"
+        ],
+        "series": [
+          {
+            "name": "1970",
+            "values": [
+              100,
+              100,
+              100
+            ]
+          },
+          {
+            "name": "1980",
+            "values": [
+              105,
+              190,
+              175
+            ]
+          }
+        ],
+        "x_label": "Ramo produtivo",
+        "y_label": "Índice de produção"
+      }
     }
   ]
 }
