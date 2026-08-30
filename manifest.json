@@ -4,5 +4,29 @@
   "base_url": "https://hemersoncm51-cloud.github.io/questudo-media/",
   "default_source": "Elaboração própria — Questudo",
   "default_license": "Uso autorizado no Questudo",
-  "items": []
+  "items": [
+    {
+      "id": "grafico-rlm-barras-001",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/grafico-rlm-barras-001.svg",
+      "alt_text": "Gráfico de barras com os valores A igual a 12, B igual a 18 e C igual a 9.",
+      "caption": "Distribuição da amostra.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "labels": [
+          "A",
+          "B",
+          "C"
+        ],
+        "values": [
+          12,
+          18,
+          9
+        ]
+      }
+    }
+  ]
 }
