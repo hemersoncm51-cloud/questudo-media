@@ -393,6 +393,35 @@
       }
     },
     {
+      "id": "qx-qx-6afe552e7b35",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-6afe552e7b35.svg",
+      "alt_text": "Gráfico de barras com dois totais da sessão: 80 ingressos vendidos e arrecadação de R$ 1.360.",
+      "caption": "Totais registrados pela bilheteria.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Ingressos vendidos",
+          "Arrecadação (centenas de R$)"
+        ],
+        "series": [
+          {
+            "name": "Total registrado",
+            "values": [
+              80,
+              13.6
+            ]
+          }
+        ],
+        "x_label": "Indicador",
+        "y_label": "Valor registrado"
+      }
+    },
+    {
       "id": "qx-qx-7b7860a1b610",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-7b7860a1b610.svg",
