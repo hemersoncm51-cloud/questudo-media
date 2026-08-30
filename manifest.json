@@ -60,6 +60,37 @@
         "x_label": "Combinação de proposições",
         "y_label": "Quantidade de relatórios"
       }
+    },
+    {
+      "id": "qx-qx-65e2c9ea9d82",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-65e2c9ea9d82.svg",
+      "alt_text": "Gráfico de barras: falha elétrica com alarme, 18 registros; alarme por outras causas, 7 registros; períodos sem alarme, 75 registros.",
+      "caption": "Registros semanais do sistema de alarme.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Falha elétrica com alarme",
+          "Alarme por outras causas",
+          "Períodos sem alarme"
+        ],
+        "series": [
+          {
+            "name": "Registros",
+            "values": [
+              18,
+              7,
+              75
+            ]
+          }
+        ],
+        "x_label": "Tipo de registro",
+        "y_label": "Quantidade"
+      }
     }
   ]
 }
