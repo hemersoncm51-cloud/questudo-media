@@ -2000,6 +2000,51 @@
       }
     },
     {
+      "id": "qx-qx-eab94ae7df02",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-eab94ae7df02.svg",
+      "alt_text": "Tabela com três linhas. Metropolitana: atividade predominante, portos, indústria e serviços; paisagem ou infraestrutura, litoral urbanizado e complexo portuário. Serrana: agricultura familiar e cafeicultura; circuitos de montanha e hospedagens rurais. Norte: petróleo, silvicultura e agricultura; litoral, praias e áreas produtivas.",
+      "caption": "Atividades e paisagens em recortes do Espírito Santo.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 900,
+      "height": 480,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Metropolitana",
+          "Serrana",
+          "Norte"
+        ],
+        "series": [
+          {
+            "name": "Atividade predominante",
+            "values": [
+              "Portos, indústria e serviços",
+              "Agricultura familiar e cafeicultura",
+              "Petróleo, silvicultura e agricultura"
+            ]
+          },
+          {
+            "name": "Paisagem ou infraestrutura",
+            "values": [
+              "Litoral urbanizado e complexo portuário",
+              "Circuitos de montanha e hospedagens rurais",
+              "Litoral, praias e áreas produtivas"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A identificação exige cruzar, na mesma linha da tabela, a atividade agrícola e o tipo de turismo associados a cada recorte regional."
+      }
+    },
+    {
       "id": "qx-qx-f0e00db00aa3",
       "visual_type": "diagram",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-f0e00db00aa3.svg",
