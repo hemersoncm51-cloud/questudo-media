@@ -62,6 +62,39 @@
       }
     },
     {
+      "id": "qx-qx-59428d09e8c1",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-59428d09e8c1.svg",
+      "alt_text": "Gráfico de barras: Clube de Leitura, 34 estudantes; Clube de Ciências, 29 estudantes; ambos os clubes, 16 estudantes; total da turma, 60 estudantes.",
+      "caption": "Participação da turma nos clubes de Leitura e Ciências.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Clube de Leitura",
+          "Clube de Ciências",
+          "Ambos os clubes",
+          "Total da turma"
+        ],
+        "series": [
+          {
+            "name": "Estudantes",
+            "values": [
+              34,
+              29,
+              16,
+              60
+            ]
+          }
+        ],
+        "x_label": "Grupo informado",
+        "y_label": "Quantidade de estudantes"
+      }
+    },
+    {
       "id": "qx-qx-65e2c9ea9d82",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-65e2c9ea9d82.svg",
