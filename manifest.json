@@ -29,6 +29,39 @@
       }
     },
     {
+      "id": "qx-qx-0f9c65323ec8",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-0f9c65323ec8.svg",
+      "alt_text": "Gráfico de barras com fichas armazenadas: etapa 1, 3; etapa 2, 8; etapa 3, 15; etapa 4, 24.",
+      "caption": "Quantidade de fichas por etapa.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Etapa 1",
+          "Etapa 2",
+          "Etapa 3",
+          "Etapa 4"
+        ],
+        "series": [
+          {
+            "name": "Fichas armazenadas",
+            "values": [
+              3,
+              8,
+              15,
+              24
+            ]
+          }
+        ],
+        "x_label": "Etapa",
+        "y_label": "Quantidade de fichas"
+      }
+    },
+    {
       "id": "qx-qx-144299159db3",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-144299159db3.svg",
