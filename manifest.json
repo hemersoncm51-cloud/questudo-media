@@ -194,6 +194,35 @@
       }
     },
     {
+      "id": "qx-qx-3f9ec029aba3",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-3f9ec029aba3.svg",
+      "alt_text": "Gráfico de barras com os pedidos I e II no eixo horizontal e valor total, em reais, no eixo vertical. A barra do pedido I atinge R$ 34,00 e a do pedido II atinge R$ 44,00.",
+      "caption": "Valor total pago em cada pedido.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Pedido I",
+          "Pedido II"
+        ],
+        "series": [
+          {
+            "name": "Valor total pago (R$)",
+            "values": [
+              34,
+              44
+            ]
+          }
+        ],
+        "x_label": "Pedidos",
+        "y_label": "Valor total (R$)"
+      }
+    },
+    {
       "id": "qx-qx-44dcc531bd74",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-44dcc531bd74.svg",
