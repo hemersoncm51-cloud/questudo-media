@@ -259,6 +259,37 @@
       }
     },
     {
+      "id": "qx-qx-2f3de7589a17",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-2f3de7589a17.svg",
+      "alt_text": "Gráfico de barras com longitudes: Cidade A 45 graus oeste, Cidade B 15 graus oeste e Cidade C 30 graus leste.",
+      "caption": "Longitudes de três cidades em relação ao meridiano de Greenwich.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 800,
+      "height": 500,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Cidade A (O)",
+          "Cidade B (O)",
+          "Cidade C (L)"
+        ],
+        "series": [
+          {
+            "name": "Longitude (graus)",
+            "values": [
+              45,
+              15,
+              30
+            ]
+          }
+        ],
+        "x_label": "Cidade",
+        "y_label": "Longitude (graus)"
+      }
+    },
+    {
       "id": "qx-qx-396509ffc33e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-396509ffc33e.svg",
