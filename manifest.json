@@ -1544,6 +1544,46 @@
       }
     },
     {
+      "id": "qx-qx-f0e00db00aa3",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-f0e00db00aa3.svg",
+      "alt_text": "Fluxo com três caixas ligadas por setas: alunos precisavam de orientação; direção ofereceu orientações; alunos acataram as orientações.",
+      "caption": "Progressão da mensagem escolar.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 800,
+      "height": 320,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "flow_diagram",
+        "labels": [
+          "Alunos precisam de orientação",
+          "Direção oferece orientações",
+          "Alunos acatam as orientações"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [
+          {
+            "title": "1. Necessidade",
+            "scene": "Alunos precisam de orientação.",
+            "dialogue": ""
+          },
+          {
+            "title": "2. Ação da direção",
+            "scene": "A direção oferece orientações.",
+            "dialogue": ""
+          },
+          {
+            "title": "3. Resultado",
+            "scene": "Os alunos acatam as orientações.",
+            "dialogue": ""
+          }
+        ]
+      }
+    },
+    {
       "id": "qx-qx-f5b64cc0e55e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-f5b64cc0e55e.svg",
