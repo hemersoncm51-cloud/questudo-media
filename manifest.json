@@ -1194,6 +1194,32 @@
       }
     },
     {
+      "id": "qx-qx-a50e51569c92",
+      "visual_type": "map",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-a50e51569c92.svg",
+      "alt_text": "Mapa esquemático do litoral central capixaba com Vila Velha no continente, ilha de Vitória ao norte e seta de Vila Velha para Vitória; a chegada de 1535 é marcada em Vila Velha.",
+      "caption": "Deslocamento entre núcleos iniciais de ocupação.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "schematic_map",
+        "labels": [
+          "Oceano Atlântico",
+          "Vila Velha — chegada em 1535",
+          "Canal",
+          "Ilha de Vitória — núcleo consolidado",
+          "Seta do deslocamento"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-b4478a45789e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-b4478a45789e.svg",
