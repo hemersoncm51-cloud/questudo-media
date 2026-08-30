@@ -705,6 +705,39 @@
       }
     },
     {
+      "id": "qx-qx-5caf211ffd6d",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-5caf211ffd6d.svg",
+      "alt_text": "Gráfico de barras com ocorrências: manga madura, 12; manga da camisa, 9; manga de vidro, 4; manga de cabo, 3.",
+      "caption": "Ocorrências da palavra “manga” em diferentes contextos.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 720,
+      "height": 420,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "manga madura",
+          "manga da camisa",
+          "manga de vidro",
+          "manga de cabo"
+        ],
+        "series": [
+          {
+            "name": "Ocorrências",
+            "values": [
+              12,
+              9,
+              4,
+              3
+            ]
+          }
+        ],
+        "x_label": "Contexto de uso",
+        "y_label": "Número de ocorrências"
+      }
+    },
+    {
       "id": "qx-qx-5fafc0b94cb6",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-5fafc0b94cb6.svg",
