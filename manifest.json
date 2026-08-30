@@ -194,6 +194,33 @@
       }
     },
     {
+      "id": "qx-qx-1c27af5f038f",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-1c27af5f038f.svg",
+      "alt_text": "Diagrama de três horários com as regras Alfa antes de Beta, Gama fora de 9h e Beta fora de 11h.",
+      "caption": "Condições de ordenação dos relatórios.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "logical_diagram",
+        "labels": [
+          "9h",
+          "10h",
+          "11h",
+          "Alfa antes de Beta",
+          "Gama ≠ 9h",
+          "Beta ≠ 11h"
+        ],
+        "series": [],
+        "x_label": "Horários de revisão",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-2458ba7ff95e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-2458ba7ff95e.svg",
