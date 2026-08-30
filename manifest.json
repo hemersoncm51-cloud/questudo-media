@@ -710,6 +710,41 @@
       }
     },
     {
+      "id": "qx-qx-4b7608ef5106",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-4b7608ef5106.svg",
+      "alt_text": "Diagrama lógico de dois círculos sobrepostos: Ciências somente 16, ambos 6, Leitura somente 10 e fora dos círculos 8.",
+      "caption": "Participação de 40 estudantes em dois clubes.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "logical_diagram",
+        "labels": [
+          "Ciências somente",
+          "Ciências e Leitura",
+          "Leitura somente",
+          "Nenhum clube"
+        ],
+        "series": [
+          {
+            "name": "Estudantes",
+            "values": [
+              "16",
+              "6",
+              "10",
+              "8"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-543cbbe18de2",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-543cbbe18de2.svg",
