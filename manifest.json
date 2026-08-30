@@ -97,6 +97,39 @@
       }
     },
     {
+      "id": "qx-qx-3f220b6ff26d",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-3f220b6ff26d.svg",
+      "alt_text": "Gráfico de barras com relatórios enviados: segunda-feira 5, terça-feira 8, quarta-feira 6 e quinta-feira 9.",
+      "caption": "Relatórios enviados por dia.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Segunda",
+          "Terça",
+          "Quarta",
+          "Quinta"
+        ],
+        "series": [
+          {
+            "name": "Relatórios enviados",
+            "values": [
+              5,
+              8,
+              6,
+              9
+            ]
+          }
+        ],
+        "x_label": "Dia",
+        "y_label": "Quantidade de relatórios"
+      }
+    },
+    {
       "id": "qx-qx-44dcc531bd74",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-44dcc531bd74.svg",
