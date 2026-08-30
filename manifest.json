@@ -1552,6 +1552,43 @@
       }
     },
     {
+      "id": "qx-qx-ce0a5626389e",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-ce0a5626389e.svg",
+      "alt_text": "Tabela com cinco trechos de comunicados internos: I “Solicitamos atenção as normas de segurança.”; II “A direção informou à os servidores o novo horário.”; III “O atendimento ocorrerá à partir de segunda-feira.”; IV “A comissão apresentou parecer favorável à proposta.”; V “Os candidatos deverão comparecer à reunião no auditório.”",
+      "caption": "Trechos de comunicados internos.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "I",
+          "II",
+          "III",
+          "IV",
+          "V"
+        ],
+        "series": [
+          {
+            "name": "Trecho",
+            "values": [
+              "Solicitamos atenção as normas de segurança.",
+              "A direção informou à os servidores o novo horário.",
+              "O atendimento ocorrerá à partir de segunda-feira.",
+              "A comissão apresentou parecer favorável à proposta.",
+              "Os candidatos deverão comparecer à reunião no auditório."
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-d3c454d2099e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-d3c454d2099e.svg",
