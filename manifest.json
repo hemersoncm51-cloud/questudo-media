@@ -879,6 +879,39 @@
       }
     },
     {
+      "id": "qx-qx-d3c454d2099e",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-d3c454d2099e.svg",
+      "alt_text": "Gráfico de barras: por que 18 ocorrências, porque 25, porquê 3 e por quê 4.",
+      "caption": "Ocorrências de grafias em bilhetes escolares revisados.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 800,
+      "height": 500,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "por que",
+          "porque",
+          "porquê",
+          "por quê"
+        ],
+        "series": [
+          {
+            "name": "Ocorrências",
+            "values": [
+              18,
+              25,
+              3,
+              4
+            ]
+          }
+        ],
+        "x_label": "Grafia",
+        "y_label": "Número de ocorrências"
+      }
+    },
+    {
       "id": "qx-qx-e5da9f18c66d",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-e5da9f18c66d.svg",
