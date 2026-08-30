@@ -1290,6 +1290,43 @@
       }
     },
     {
+      "id": "qx-qx-a97ee04234ad",
+      "visual_type": "map",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-a97ee04234ad.svg",
+      "alt_text": "Mapa esquemático de uma encosta: vegetação nativa no topo, faixas de cultivo seguindo curvas de nível no setor médio e mata ciliar ao longo de um rio na base.",
+      "caption": "Uso do solo e conservação em uma vertente.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "schematic_map",
+        "labels": [
+          "Topo da vertente",
+          "Lavouras em curvas de nível",
+          "Mata ciliar",
+          "Curso d'água",
+          "Base da vertente"
+        ],
+        "series": [
+          {
+            "name": "Uso ou elemento",
+            "values": [
+              "Vegetação nativa",
+              "Faixas acompanhando o relevo",
+              "Vegetação nas margens",
+              "Rio",
+              "Área de deposição potencial"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-b4478a45789e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-b4478a45789e.svg",
