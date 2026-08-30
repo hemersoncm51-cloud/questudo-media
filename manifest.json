@@ -420,6 +420,39 @@
         "x_label": "Mês",
         "y_label": "Preço em reais"
       }
+    },
+    {
+      "id": "qx-qx-e5da9f18c66d",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-e5da9f18c66d.svg",
+      "alt_text": "Gráfico de barras: turma total 35 participantes que estudam ao menos uma língua; estudam Inglês 26; estudam Espanhol 18; estudam as duas línguas 9.",
+      "caption": "Distribuição de estudos de idiomas na turma.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Ao menos uma língua",
+          "Inglês",
+          "Espanhol",
+          "Ambas"
+        ],
+        "series": [
+          {
+            "name": "Participantes",
+            "values": [
+              35,
+              26,
+              18,
+              9
+            ]
+          }
+        ],
+        "x_label": "Grupo de estudo",
+        "y_label": "Participantes"
+      }
     }
   ]
 }
