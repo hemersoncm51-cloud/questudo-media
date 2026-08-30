@@ -716,6 +716,39 @@
       }
     },
     {
+      "id": "qx-qx-7710cc510352",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-7710cc510352.svg",
+      "alt_text": "Gráfico de barras do inventário comunitário em São Mateus: relatos gravados, 24; fotografias identificadas, 18; receitas tradicionais, 15; edificações antigas, 9.",
+      "caption": "Registros reunidos no inventário comunitário do bairro.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 800,
+      "height": 450,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Relatos gravados",
+          "Fotografias identificadas",
+          "Receitas tradicionais",
+          "Edificações antigas"
+        ],
+        "series": [
+          {
+            "name": "Número de registros",
+            "values": [
+              24,
+              18,
+              15,
+              9
+            ]
+          }
+        ],
+        "x_label": "Tipo de referência cultural",
+        "y_label": "Número de registros"
+      }
+    },
+    {
       "id": "qx-qx-7b7860a1b610",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-7b7860a1b610.svg",
