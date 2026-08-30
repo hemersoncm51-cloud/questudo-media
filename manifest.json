@@ -64,6 +64,39 @@
       }
     },
     {
+      "id": "qx-qx-1bde6299d2c0",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-1bde6299d2c0.svg",
+      "alt_text": "Gráfico de barras: total de itens vendidos, 52; arrecadação total, 292 reais; preço do sanduíche, 7 reais; preço do suco, 4 reais.",
+      "caption": "Dados do turno de vendas da lanchonete.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Itens vendidos",
+          "Arrecadação total",
+          "Preço do sanduíche",
+          "Preço do suco"
+        ],
+        "series": [
+          {
+            "name": "Valor informado",
+            "values": [
+              52,
+              292,
+              7,
+              4
+            ]
+          }
+        ],
+        "x_label": "Grandeza informada",
+        "y_label": "Valor"
+      }
+    },
+    {
       "id": "qx-qx-44dcc531bd74",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-44dcc531bd74.svg",
