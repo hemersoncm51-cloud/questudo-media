@@ -27,6 +27,39 @@
           9
         ]
       }
+    },
+    {
+      "id": "qx-qx-44dcc531bd74",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-44dcc531bd74.svg",
+      "alt_text": "Gráfico de barras com quatro combinações: p verdadeira e q verdadeira, 15; p verdadeira e q falsa, 8; p falsa e q verdadeira, 12; p falsa e q falsa, 5.",
+      "caption": "Distribuição dos 40 relatórios segundo p e q.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "p verdadeira, q verdadeira",
+          "p verdadeira, q falsa",
+          "p falsa, q verdadeira",
+          "p falsa, q falsa"
+        ],
+        "series": [
+          {
+            "name": "Relatórios",
+            "values": [
+              15,
+              8,
+              12,
+              5
+            ]
+          }
+        ],
+        "x_label": "Combinação de proposições",
+        "y_label": "Quantidade de relatórios"
+      }
     }
   ]
 }
