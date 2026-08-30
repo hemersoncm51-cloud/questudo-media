@@ -683,6 +683,37 @@
       }
     },
     {
+      "id": "qx-qx-93885984433a",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-93885984433a.svg",
+      "alt_text": "Gráfico de barras: Terminal Norte, 48 milhões de toneladas; Terminal Central, 14 milhões de toneladas; Terminal Sul, 3 milhões de toneladas. As cargas predominantes são, respectivamente, minério, produtos siderúrgicos e rochas ornamentais.",
+      "caption": "Movimentação anual de cargas em terminais capixabas fictícios.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 900,
+      "height": 500,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Terminal Norte",
+          "Terminal Central",
+          "Terminal Sul"
+        ],
+        "series": [
+          {
+            "name": "Cargas embarcadas (milhões de toneladas)",
+            "values": [
+              48,
+              14,
+              3
+            ]
+          }
+        ],
+        "x_label": "Terminal",
+        "y_label": "Milhões de toneladas"
+      }
+    },
+    {
       "id": "qx-qx-cc345bd30c41",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-cc345bd30c41.svg",
