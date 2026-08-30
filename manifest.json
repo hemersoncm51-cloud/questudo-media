@@ -60,6 +60,50 @@
       }
     },
     {
+      "id": "qx-qx-0d5a7fde1fc2",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-0d5a7fde1fc2.svg",
+      "alt_text": "Tabela de quatro pedidos. P1: 3 comprovantes exigidos não informado; protocolado sim. P2: 3 comprovantes exigidos não informado; protocolado não. P3: 3 comprovantes exigidos sim; protocolado decorre da regra. P4: 3 comprovantes exigidos não informado; protocolado não informado.",
+      "caption": "Registros da triagem documental.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "P1",
+          "P2",
+          "P3",
+          "P4"
+        ],
+        "series": [
+          {
+            "name": "Contém os 3 comprovantes exigidos",
+            "values": [
+              "não informado",
+              "não informado",
+              "sim",
+              "não informado"
+            ]
+          },
+          {
+            "name": "Pedido protocolado",
+            "values": [
+              "sim",
+              "não",
+              "decorre da regra",
+              "não informado"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-0f9c65323ec8",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-0f9c65323ec8.svg",
