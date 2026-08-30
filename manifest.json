@@ -879,6 +879,41 @@
       }
     },
     {
+      "id": "qx-qx-e7bb32c9c83f",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-e7bb32c9c83f.svg",
+      "alt_text": "Gráfico de barras: hidrelétrica 60%, eólica 14%, gás natural 12%, solar 7% e biomassa 7%.",
+      "caption": "Participação aproximada de fontes selecionadas na geração elétrica brasileira em 2023.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 800,
+      "height": 500,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Hidrelétrica",
+          "Eólica",
+          "Gás natural",
+          "Solar",
+          "Biomassa"
+        ],
+        "series": [
+          {
+            "name": "Participação (%)",
+            "values": [
+              60,
+              14,
+              12,
+              7,
+              7
+            ]
+          }
+        ],
+        "x_label": "Fonte de geração",
+        "y_label": "Participação na geração (%)"
+      }
+    },
+    {
       "id": "qx-qx-f5b64cc0e55e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-f5b64cc0e55e.svg",
