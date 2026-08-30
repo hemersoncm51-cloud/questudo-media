@@ -227,6 +227,39 @@
       }
     },
     {
+      "id": "qx-qx-49ef7f8916e4",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-49ef7f8916e4.svg",
+      "alt_text": "Gráfico de barras com as turmas A, B, C e D no eixo horizontal e quantidade de livros no eixo vertical. As barras indicam, respectivamente, 48, 60, 72 e 60 livros.",
+      "caption": "Livros arrecadados por turma.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Turma A",
+          "Turma B",
+          "Turma C",
+          "Turma D"
+        ],
+        "series": [
+          {
+            "name": "Livros arrecadados",
+            "values": [
+              48,
+              60,
+              72,
+              60
+            ]
+          }
+        ],
+        "x_label": "Turmas",
+        "y_label": "Quantidade de livros"
+      }
+    },
+    {
       "id": "qx-qx-543cbbe18de2",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-543cbbe18de2.svg",
