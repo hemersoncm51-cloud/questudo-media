@@ -2492,6 +2492,80 @@
       }
     },
     {
+      "id": "qx-qx-fc8002d68c89",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-fc8002d68c89.svg",
+      "alt_text": "Fluxo: Oceano envia ar úmido para uma montanha; o ar sobe pela vertente litorânea, resfria e produz chuva; após o cume, o ar desce mais seco para a vertente interiorana.",
+      "caption": "Formação de chuva de relevo e sombra de chuva.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 900,
+      "height": 520,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "flow_diagram",
+        "labels": [
+          "Oceano",
+          "Vertente litorânea",
+          "Cume",
+          "Vertente interiorana"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "n1",
+            "label": "Oceano",
+            "detail": "Origem da massa de ar úmida que se desloca em direção ao continente.",
+            "x": 100,
+            "y": 30
+          },
+          {
+            "id": "n2",
+            "label": "Subida do ar",
+            "detail": "Na vertente litorânea, o relevo força a elevação e o resfriamento do ar.",
+            "x": 30,
+            "y": 65
+          },
+          {
+            "id": "n3",
+            "label": "Chuva",
+            "detail": "A condensação produz precipitação antes e próximo ao cume.",
+            "x": 50,
+            "y": 20
+          },
+          {
+            "id": "n4",
+            "label": "Descida do ar",
+            "detail": "Na vertente interiorana, o ar desce com menor disponibilidade de umidade.",
+            "x": 80,
+            "y": 65
+          }
+        ],
+        "edges": [
+          {
+            "from": "n1",
+            "to": "n2",
+            "label": "ar úmido avança"
+          },
+          {
+            "from": "n2",
+            "to": "n3",
+            "label": "resfria e condensa"
+          },
+          {
+            "from": "n3",
+            "to": "n4",
+            "label": "cruza o relevo"
+          }
+        ],
+        "legend": [],
+        "visual_dependency": "O sentido do fluxo e a posição da chuva, exibidos no diagrama, permitem localizar a vertente de sotavento."
+      }
+    },
+    {
       "id": "qx-qx-fd12fd7937e1",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-fd12fd7937e1.svg",
