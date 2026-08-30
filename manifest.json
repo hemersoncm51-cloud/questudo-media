@@ -774,6 +774,39 @@
       }
     },
     {
+      "id": "qx-qx-ca533ca43ae0",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-ca533ca43ae0.svg",
+      "alt_text": "Gráfico de barras com quatro combinações: relatório entregue e entrevista realizada, 18; relatório entregue e ausência na entrevista, 0; sem relatório e entrevista realizada, 7; sem relatório e ausência na entrevista, 4.",
+      "caption": "Situações registradas no processo seletivo fictício.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 900,
+      "height": 500,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Relatório e entrevista",
+          "Relatório sem entrevista",
+          "Sem relatório com entrevista",
+          "Sem relatório e sem entrevista"
+        ],
+        "series": [
+          {
+            "name": "Candidatos",
+            "values": [
+              18,
+              0,
+              7,
+              4
+            ]
+          }
+        ],
+        "x_label": "Combinação de situações",
+        "y_label": "Número de candidatos"
+      }
+    },
+    {
       "id": "qx-qx-cc345bd30c41",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-cc345bd30c41.svg",
