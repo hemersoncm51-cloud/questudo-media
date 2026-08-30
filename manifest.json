@@ -606,6 +606,54 @@
       }
     },
     {
+      "id": "qx-qx-36ca5f72bd57",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-36ca5f72bd57.svg",
+      "alt_text": "Tabela comparativa: República Velha, política dos governadores e coronelismo; Era Vargas, Estado Novo e centralização política; Ditadura Militar, atos institucionais e restrição de direitos; Redemocratização, Constituição de 1988 e ampliação de direitos.",
+      "caption": "Marcos e efeitos de períodos republicanos brasileiros.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 920,
+      "height": 500,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "República Velha",
+          "Era Vargas",
+          "Ditadura Militar",
+          "Redemocratização"
+        ],
+        "series": [
+          {
+            "name": "Marco",
+            "values": [
+              "Política dos governadores",
+              "Estado Novo",
+              "Atos institucionais",
+              "Constituição de 1988"
+            ]
+          },
+          {
+            "name": "Efeito institucional",
+            "values": [
+              "Coronelismo e poder regional",
+              "Centralização política",
+              "Restrição de direitos",
+              "Ampliação de direitos"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A conclusão depende da associação, apresentada na linha da redemocratização, entre Constituição de 1988 e ampliação de direitos."
+      }
+    },
+    {
       "id": "qx-qx-396509ffc33e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-396509ffc33e.svg",
