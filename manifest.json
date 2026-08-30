@@ -683,6 +683,37 @@
       }
     },
     {
+      "id": "qx-qx-7f4b9958ff1c",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-7f4b9958ff1c.svg",
+      "alt_text": "Gráfico de barras: inventário de referências culturais, 86 participantes; oficina de técnicas tradicionais, 64 participantes; visita guiada ao sítio histórico, 112 participantes.",
+      "caption": "Participação em ações de patrimônio em cidade capixaba fictícia.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 900,
+      "height": 500,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Inventário cultural",
+          "Oficina de técnicas",
+          "Visita guiada"
+        ],
+        "series": [
+          {
+            "name": "Participantes",
+            "values": [
+              86,
+              64,
+              112
+            ]
+          }
+        ],
+        "x_label": "Ação de patrimônio",
+        "y_label": "Número de participantes"
+      }
+    },
+    {
       "id": "qx-qx-93885984433a",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-93885984433a.svg",
