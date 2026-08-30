@@ -93,6 +93,41 @@
       }
     },
     {
+      "id": "qx-qx-119a580b2ab8",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-119a580b2ab8.svg",
+      "alt_text": "Fluxo com quatro blocos: Fato e local; Como ocorreu a interdição; Fala da engenheira; Previsão de liberação.",
+      "caption": "Progressão informativa de uma notícia.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "flow_diagram",
+        "labels": [
+          "Fato e local",
+          "Como ocorreu a interdição",
+          "Fala da engenheira",
+          "Previsão de liberação"
+        ],
+        "series": [
+          {
+            "name": "Progressão",
+            "values": [
+              "Abertura informativa",
+              "Relato do episódio",
+              "Declaração de fonte",
+              "Desfecho previsto"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-144299159db3",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-144299159db3.svg",
