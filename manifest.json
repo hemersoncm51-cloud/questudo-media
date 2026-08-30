@@ -453,6 +453,37 @@
         "x_label": "Grupo de estudo",
         "y_label": "Participantes"
       }
+    },
+    {
+      "id": "qx-qx-f5b64cc0e55e",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-f5b64cc0e55e.svg",
+      "alt_text": "Gráfico de barras com preços: antes da promoção, R$ 1.000; durante promoção de 20%, R$ 800; após acréscimo de 20% sobre R$ 800, R$ 960.",
+      "caption": "Evolução do preço da bicicleta.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Preço inicial",
+          "Após redução de 20%",
+          "Após acréscimo de 20%"
+        ],
+        "series": [
+          {
+            "name": "Preço (R$)",
+            "values": [
+              1000,
+              800,
+              960
+            ]
+          }
+        ],
+        "x_label": "Momento",
+        "y_label": "Preço em reais"
+      }
     }
   ]
 }
