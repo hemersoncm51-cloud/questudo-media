@@ -1490,6 +1490,53 @@
       }
     },
     {
+      "id": "qx-qx-c25d0779f758",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-c25d0779f758.svg",
+      "alt_text": "Tabela com medidas e contextos. Capitanias hereditárias, 1534, ocupação e administração inicial. Governo-Geral, 1548, centralização administrativa. Casas de fundição, século XVIII, controle do ouro nas regiões mineradoras. Engenhos, período colonial, produção açucareira. Expulsão dos franceses do Rio de Janeiro, 1567, disputa territorial.",
+      "caption": "Medidas e contextos da América portuguesa.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Capitanias hereditárias",
+          "Governo-Geral",
+          "Casas de fundição",
+          "Engenhos",
+          "Expulsão dos franceses"
+        ],
+        "series": [
+          {
+            "name": "Data ou período",
+            "values": [
+              "1534",
+              "1548",
+              "século XVIII",
+              "período colonial",
+              "1567"
+            ]
+          },
+          {
+            "name": "Contexto principal",
+            "values": [
+              "Ocupação e administração inicial",
+              "Centralização administrativa",
+              "Controle do ouro em regiões mineradoras",
+              "Produção açucareira",
+              "Disputa territorial"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-c508e72993de",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-c508e72993de.svg",
