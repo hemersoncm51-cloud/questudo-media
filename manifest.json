@@ -1011,6 +1011,74 @@
       }
     },
     {
+      "id": "qx-qx-5d265e05eb24",
+      "visual_type": "illustration",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-5d265e05eb24.svg",
+      "alt_text": "Tirinha em dois quadros. No primeiro, uma pessoa diz: “Foi um aviso gentil.” No segundo, outra pessoa responde: “Ela respondeu gentilmente, mas não aceitou o pedido.”",
+      "caption": "As ocorrências de “gentil” e “gentilmente” exercem funções distintas nas falas.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 800,
+      "height": 420,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comic_strip",
+        "labels": [
+          "Quadro 1: gentil",
+          "Quadro 2: gentilmente"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [
+          {
+            "title": "Quadro 1",
+            "scene": "Duas pessoas conversam diante de uma porta de atendimento.",
+            "dialogue": "Pessoa 1: “Foi um aviso gentil.”"
+          },
+          {
+            "title": "Quadro 2",
+            "scene": "A segunda pessoa segura um formulário e responde à primeira.",
+            "dialogue": "Pessoa 2: “Ela respondeu gentilmente, mas não aceitou o pedido.”"
+          }
+        ],
+        "nodes": [
+          {
+            "id": "quadro1",
+            "label": "Gentil",
+            "detail": "Caracteriza o substantivo “aviso”.",
+            "x": 100,
+            "y": 100
+          },
+          {
+            "id": "quadro2",
+            "label": "Gentilmente",
+            "detail": "Modifica o verbo “respondeu”.",
+            "x": 100,
+            "y": 20
+          }
+        ],
+        "edges": [
+          {
+            "from": "quadro1",
+            "to": "quadro2",
+            "label": "acréscimo de -mente"
+          }
+        ],
+        "legend": [
+          {
+            "label": "Quadro 1",
+            "meaning": "Uso adjetival de “gentil”."
+          },
+          {
+            "label": "Quadro 2",
+            "meaning": "Uso adverbial de “gentilmente”."
+          }
+        ],
+        "visual_dependency": "As falas dos dois quadros mostram “gentil” qualificando “aviso” e “gentilmente” modificando “respondeu”; essa comparação é necessária para identificar o efeito do sufixo."
+      }
+    },
+    {
       "id": "qx-qx-5fafc0b94cb6",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-5fafc0b94cb6.svg",
