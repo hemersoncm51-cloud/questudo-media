@@ -1332,6 +1332,41 @@
       }
     },
     {
+      "id": "qx-qx-e89ed27e8ef0",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-e89ed27e8ef0.svg",
+      "alt_text": "Gráfico de barras com a quantidade de letras das palavras destacadas: infeliz 7, passatempo 10, amanhecer 9, planalto 8 e embora 6.",
+      "caption": "Extensão gráfica das palavras da atividade.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 720,
+      "height": 420,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "infeliz",
+          "passatempo",
+          "amanhecer",
+          "planalto",
+          "embora"
+        ],
+        "series": [
+          {
+            "name": "Quantidade de letras",
+            "values": [
+              7,
+              10,
+              9,
+              8,
+              6
+            ]
+          }
+        ],
+        "x_label": "Palavra",
+        "y_label": "Quantidade de letras"
+      }
+    },
+    {
       "id": "qx-qx-f5b64cc0e55e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-f5b64cc0e55e.svg",
