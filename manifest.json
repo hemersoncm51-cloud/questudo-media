@@ -2305,6 +2305,63 @@
       }
     },
     {
+      "id": "qx-qx-f2b31309c2da",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-f2b31309c2da.svg",
+      "alt_text": "Tabela com quatro linhas: fazer — refazer — derivação prefixal; feliz — felizmente — derivação sufixal; triste — entristecer — derivação parassintética; passa mais tempo — passatempo — composição por justaposição.",
+      "caption": "Formação de palavras",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "I",
+          "II",
+          "III",
+          "IV"
+        ],
+        "series": [
+          {
+            "name": "Base",
+            "values": [
+              "fazer",
+              "feliz",
+              "triste",
+              "passa + tempo"
+            ]
+          },
+          {
+            "name": "Palavra formada",
+            "values": [
+              "refazer",
+              "felizmente",
+              "entristecer",
+              "passatempo"
+            ]
+          },
+          {
+            "name": "Processo indicado",
+            "values": [
+              "Derivação prefixal",
+              "Derivação sufixal",
+              "Derivação parassintética",
+              "Composição por justaposição"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A solução exige confrontar a base, a palavra formada e o processo indicado nas três colunas."
+      }
+    },
+    {
       "id": "qx-qx-f3e07284a47a",
       "visual_type": "table",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-f3e07284a47a.svg",
