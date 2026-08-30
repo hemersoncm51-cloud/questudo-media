@@ -260,6 +260,35 @@
       }
     },
     {
+      "id": "qx-qx-5fafc0b94cb6",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-5fafc0b94cb6.svg",
+      "alt_text": "Gráfico de barras com arrecadação: sessão 1, R$ 600,00; sessão 2, R$ 720,00.",
+      "caption": "Arrecadação por sessão.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Sessão 1",
+          "Sessão 2"
+        ],
+        "series": [
+          {
+            "name": "Arrecadação (R$)",
+            "values": [
+              600,
+              720
+            ]
+          }
+        ],
+        "x_label": "Sessão",
+        "y_label": "Valor em reais"
+      }
+    },
+    {
       "id": "qx-qx-65e2c9ea9d82",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-65e2c9ea9d82.svg",
