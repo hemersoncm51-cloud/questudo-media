@@ -807,6 +807,49 @@
       }
     },
     {
+      "id": "qx-qx-c508e72993de",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-c508e72993de.svg",
+      "alt_text": "Gráfico de barras agrupadas: Pedido I tem 3 cadernos e 2 canetas, total R$ 34; Pedido II tem 2 cadernos e 4 canetas, total R$ 28.",
+      "caption": "Composição de dois pedidos na papelaria.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 800,
+      "height": 500,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Pedido I",
+          "Pedido II"
+        ],
+        "series": [
+          {
+            "name": "Cadernos (unidades)",
+            "values": [
+              3,
+              2
+            ]
+          },
+          {
+            "name": "Canetas (unidades)",
+            "values": [
+              2,
+              4
+            ]
+          },
+          {
+            "name": "Total (R$)",
+            "values": [
+              34,
+              28
+            ]
+          }
+        ],
+        "x_label": "Pedido",
+        "y_label": "Quantidade ou valor indicado"
+      }
+    },
+    {
       "id": "qx-qx-ca533ca43ae0",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-ca533ca43ae0.svg",
