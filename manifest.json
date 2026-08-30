@@ -1585,6 +1585,39 @@
       }
     },
     {
+      "id": "qx-qx-db8ea55386fd",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-db8ea55386fd.svg",
+      "alt_text": "Linha do tempo: 1535, posse da Capitania do Espírito Santo e fundação de Vila Velha; 1551, formação da Vila de Vitória em uma ilha; período posterior, expansão do povoamento pelo território capixaba.",
+      "caption": "Marcos iniciais da colonização do Espírito Santo.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "timeline",
+        "labels": [
+          "1535",
+          "1551",
+          "Período posterior"
+        ],
+        "series": [
+          {
+            "name": "Acontecimento",
+            "values": [
+              "Posse da capitania e fundação de Vila Velha",
+              "Formação da Vila de Vitória em uma ilha",
+              "Expansão do povoamento para outros pontos"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-e5da9f18c66d",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-e5da9f18c66d.svg",
