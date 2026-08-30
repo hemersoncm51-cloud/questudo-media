@@ -1017,6 +1017,41 @@
       }
     },
     {
+      "id": "qx-qx-915dcf9ff205",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-915dcf9ff205.svg",
+      "alt_text": "Gráfico de barras com cinco etapas e quantidades 3, 7, 15, 31 e 63 fichas.",
+      "caption": "Quantidade de fichas em cada etapa.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 720,
+      "height": 420,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Etapa 1",
+          "Etapa 2",
+          "Etapa 3",
+          "Etapa 4",
+          "Etapa 5"
+        ],
+        "series": [
+          {
+            "name": "Fichas",
+            "values": [
+              3,
+              7,
+              15,
+              31,
+              63
+            ]
+          }
+        ],
+        "x_label": "Etapas",
+        "y_label": "Quantidade de fichas"
+      }
+    },
+    {
       "id": "qx-qx-93885984433a",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-93885984433a.svg",
