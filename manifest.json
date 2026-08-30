@@ -1194,6 +1194,46 @@
       }
     },
     {
+      "id": "qx-qx-c7b63d28285a",
+      "visual_type": "illustration",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-c7b63d28285a.svg",
+      "alt_text": "Tirinha de três quadros: uma moradora vê um cartaz sobre economia de água, promete colaborar e depois deixa uma torneira aberta enquanto consulta o celular.",
+      "caption": "Tirinha autoral.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comic_strip",
+        "labels": [
+          "Quadro 1",
+          "Quadro 2",
+          "Quadro 3"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [
+          {
+            "title": "Quadro 1",
+            "scene": "No corredor do condomínio, há um cartaz com a frase “Cada gota conta”.",
+            "dialogue": "Moradora: “A partir de hoje, vou economizar água.”"
+          },
+          {
+            "title": "Quadro 2",
+            "scene": "Na cozinha, a moradora coloca um copo sob a torneira.",
+            "dialogue": "Moradora: “Pequenas atitudes fazem diferença.”"
+          },
+          {
+            "title": "Quadro 3",
+            "scene": "O celular toca; ela sai olhando a tela, e a torneira permanece aberta.",
+            "dialogue": "Moradora: “Já volto.”"
+          }
+        ]
+      }
+    },
+    {
       "id": "qx-qx-ca533ca43ae0",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-ca533ca43ae0.svg",
