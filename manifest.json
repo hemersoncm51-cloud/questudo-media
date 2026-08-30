@@ -1718,6 +1718,60 @@
       }
     },
     {
+      "id": "qx-qx-8c43321e563e",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-8c43321e563e.svg",
+      "alt_text": "Tabela comparativa. Décadas de 1940-1950: café como atividade de grande peso e circulação portuária ligada a produtos agrícolas. Décadas de 1960-1970: expansão da infraestrutura portuária, exportação de minérios e implantação de grandes empreendimentos industriais.",
+      "caption": "Mudanças na estrutura econômica capixaba em dois períodos.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Atividade de maior peso",
+          "Infraestrutura de circulação",
+          "Integração econômica"
+        ],
+        "series": [
+          {
+            "name": "1940-1950",
+            "values": [
+              "Café e comércio agrícola",
+              "Portos ligados ao escoamento agrícola",
+              "Predomínio agroexportador"
+            ]
+          },
+          {
+            "name": "1960-1970",
+            "values": [
+              "Mineração e grandes indústrias",
+              "Ampliação portuária e corredores de transporte",
+              "Inserção industrial-exportadora"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [
+          {
+            "label": "Linhas",
+            "meaning": "Períodos históricos comparados."
+          },
+          {
+            "label": "Colunas",
+            "meaning": "Aspectos da estrutura econômica em cada período."
+          }
+        ],
+        "visual_dependency": "A comparação entre os dois períodos permite identificar a articulação histórica entre infraestrutura portuária, mineração e industrialização."
+      }
+    },
+    {
       "id": "qx-qx-915dcf9ff205",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-915dcf9ff205.svg",
