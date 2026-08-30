@@ -163,6 +163,37 @@
       }
     },
     {
+      "id": "qx-qx-557d9c4a8f74",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-557d9c4a8f74.svg",
+      "alt_text": "Gráfico de barras com atendimentos concluídos: Ana 24, Bruno 18 e Carla 21.",
+      "caption": "Atendimentos concluídos no mês.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Ana",
+          "Bruno",
+          "Carla"
+        ],
+        "series": [
+          {
+            "name": "Atendimentos concluídos",
+            "values": [
+              24,
+              18,
+              21
+            ]
+          }
+        ],
+        "x_label": "Servidor",
+        "y_label": "Quantidade de atendimentos"
+      }
+    },
+    {
       "id": "qx-qx-59428d09e8c1",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-59428d09e8c1.svg",
