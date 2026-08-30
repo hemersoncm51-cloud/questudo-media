@@ -128,6 +128,39 @@
       }
     },
     {
+      "id": "qx-qx-1968cf6650a6",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-1968cf6650a6.svg",
+      "alt_text": "Gráfico de barras cronológico com quatro marcos: Índia 1947, Bandung 1955, Angola 1975 e queda do Muro de Berlim 1989.",
+      "caption": "Marcos selecionados da descolonização e da Guerra Fria.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 800,
+      "height": 500,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Índia",
+          "Bandung",
+          "Angola",
+          "Muro de Berlim"
+        ],
+        "series": [
+          {
+            "name": "Ano",
+            "values": [
+              1947,
+              1955,
+              1975,
+              1989
+            ]
+          }
+        ],
+        "x_label": "Marco histórico",
+        "y_label": "Ano"
+      }
+    },
+    {
       "id": "qx-qx-1bde6299d2c0",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-1bde6299d2c0.svg",
