@@ -60,6 +60,55 @@
       }
     },
     {
+      "id": "qx-qx-04b6285cf7b4",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-04b6285cf7b4.svg",
+      "alt_text": "Tabela comparativa. Área A: oeste e noroeste, colinas e vales, clima tropical com estação menos chuvosa, rios das bacias do Doce e São Mateus. Área B: serras do interior, maiores altitudes, temperaturas relativamente mais amenas, cabeceiras de rios. Área C: baixadas e planícies litorâneas, influência marítima e ambientes de restinga, manguezal e Mata Atlântica remanescente.",
+      "caption": "Síntese de paisagens físicas do Espírito Santo.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Área A",
+          "Área B",
+          "Área C"
+        ],
+        "series": [
+          {
+            "name": "Localização e relevo",
+            "values": [
+              "Oeste e noroeste; colinas e vales",
+              "Serras do interior; maiores altitudes",
+              "Baixadas e planícies litorâneas"
+            ]
+          },
+          {
+            "name": "Clima e águas",
+            "values": [
+              "Tropical com estação menos chuvosa; bacias do Doce e São Mateus",
+              "Temperaturas relativamente mais amenas; cabeceiras de rios",
+              "Influência marítima; rios curtos e estuários"
+            ]
+          },
+          {
+            "name": "Cobertura vegetal",
+            "values": [
+              "Mata Atlântica alterada por usos agropecuários",
+              "Mata Atlântica em áreas serranas e cultivadas",
+              "Restinga, manguezal e Mata Atlântica remanescente"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-0d5a7fde1fc2",
       "visual_type": "table",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-0d5a7fde1fc2.svg",
