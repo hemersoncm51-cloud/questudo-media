@@ -1912,6 +1912,80 @@
       }
     },
     {
+      "id": "qx-qx-d3ce83d86aea",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-d3ce83d86aea.svg",
+      "alt_text": "Fluxograma com três nós: “Antes da reunião: acenda o painel”, seguido de “Ação: ligar a luz”, e “Após a avaliação: ela pode ascender ao cargo”, seguido de “Ação: subir na carreira”.",
+      "caption": "Sentidos distintos em palavras de forma semelhante.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 850,
+      "height": 480,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "flow_diagram",
+        "labels": [
+          "Frase 1",
+          "Sentido 1",
+          "Frase 2",
+          "Sentido 2"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "n1",
+            "label": "Frase 1",
+            "detail": "Antes da reunião: acenda o painel.",
+            "x": 20,
+            "y": 30
+          },
+          {
+            "id": "n2",
+            "label": "Sentido 1",
+            "detail": "Ligar a luz do painel.",
+            "x": 75,
+            "y": 30
+          },
+          {
+            "id": "n3",
+            "label": "Frase 2",
+            "detail": "Após a avaliação, ela pode ascender ao cargo.",
+            "x": 20,
+            "y": 75
+          },
+          {
+            "id": "n4",
+            "label": "Sentido 2",
+            "detail": "Subir na carreira.",
+            "x": 75,
+            "y": 75
+          }
+        ],
+        "edges": [
+          {
+            "from": "n1",
+            "to": "n2",
+            "label": "expressa"
+          },
+          {
+            "from": "n2",
+            "to": "n3",
+            "label": "contrasta com"
+          },
+          {
+            "from": "n3",
+            "to": "n4",
+            "label": "expressa"
+          }
+        ],
+        "legend": [],
+        "visual_dependency": "As duas grafias e seus sentidos contextualizados nos nós do fluxo são necessários para reconhecer a relação paronímica."
+      }
+    },
+    {
       "id": "qx-qx-db8ea55386fd",
       "visual_type": "diagram",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-db8ea55386fd.svg",
