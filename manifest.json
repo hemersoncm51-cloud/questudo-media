@@ -60,6 +60,51 @@
       }
     },
     {
+      "id": "qx-qx-019b751e1db2",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-019b751e1db2.svg",
+      "alt_text": "Tabela comparativa: Região Serrana, no interior, apresenta serras e altitudes elevadas e cafeicultura de altitude; Litoral, junto ao oceano, apresenta planícies costeiras e atividades portuárias; Vales fluviais têm relevo mais baixo e agricultura irrigada.",
+      "caption": "Relevo e usos do espaço em áreas do Espírito Santo.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 920,
+      "height": 520,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Região Serrana",
+          "Litoral",
+          "Vales fluviais"
+        ],
+        "series": [
+          {
+            "name": "Posição e relevo",
+            "values": [
+              "Interior; serras e altitudes elevadas",
+              "Faixa costeira; planícies litorâneas",
+              "Áreas ribeirinhas; terrenos mais baixos"
+            ]
+          },
+          {
+            "name": "Atividade associada",
+            "values": [
+              "Cafeicultura de altitude",
+              "Atividades portuárias e turismo",
+              "Agricultura irrigada"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A identificação da Região Serrana e de sua atividade associada depende da comparação entre as linhas da tabela."
+      }
+    },
+    {
       "id": "qx-qx-04b6285cf7b4",
       "visual_type": "table",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-04b6285cf7b4.svg",
