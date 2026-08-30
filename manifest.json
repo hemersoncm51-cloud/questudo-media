@@ -288,6 +288,45 @@
       }
     },
     {
+      "id": "qx-qx-444861673c16",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-444861673c16.svg",
+      "alt_text": "Gráfico de barras agrupadas: ponto A, distância 20 m e ângulo 45 graus; ponto B, distância 50 m e ângulo 30 graus; ponto C, distância 10 m e ângulo 60 graus.",
+      "caption": "Dados de observação da torre.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 900,
+      "height": 500,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Ponto A",
+          "Ponto B",
+          "Ponto C"
+        ],
+        "series": [
+          {
+            "name": "Distância horizontal (m)",
+            "values": [
+              20,
+              50,
+              10
+            ]
+          },
+          {
+            "name": "Ângulo de elevação (graus)",
+            "values": [
+              45,
+              30,
+              60
+            ]
+          }
+        ],
+        "x_label": "Ponto de observação",
+        "y_label": "Valor indicado"
+      }
+    },
+    {
       "id": "qx-qx-447615b80028",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-447615b80028.svg",
