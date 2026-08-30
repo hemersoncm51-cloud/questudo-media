@@ -161,6 +161,55 @@
       }
     },
     {
+      "id": "qx-qx-1a68a576bc0b",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-1a68a576bc0b.svg",
+      "alt_text": "Tabela comparando três áreas litorâneas: Área A tem porto e pátios logísticos; Área B tem pesca artesanal, passeios de barco e manguezais; Área C tem praias urbanizadas e rede hoteleira.",
+      "caption": "Áreas litorâneas hipotéticas do Espírito Santo.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Atividade predominante",
+          "Infraestrutura/uso",
+          "Ambiente sensível"
+        ],
+        "series": [
+          {
+            "name": "Área A",
+            "values": [
+              "Movimentação portuária",
+              "Cais e pátios logísticos",
+              "Restinga próxima"
+            ]
+          },
+          {
+            "name": "Área B",
+            "values": [
+              "Pesca artesanal e passeios",
+              "Trapiches de pequena escala",
+              "Manguezais e estuário"
+            ]
+          },
+          {
+            "name": "Área C",
+            "values": [
+              "Turismo de praia",
+              "Hotéis e calçadão",
+              "Faixa de areia e dunas"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-1bde6299d2c0",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-1bde6299d2c0.svg",
