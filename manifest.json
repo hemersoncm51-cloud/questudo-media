@@ -29,6 +29,37 @@
       }
     },
     {
+      "id": "qx-qx-006477bf3fae",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-006477bf3fae.svg",
+      "alt_text": "Gráfico de barras: detecções de fumaça, 18; sirenes acionadas, 25; ocorrências com fumaça e sirene, 14.",
+      "caption": "Ocorrências registradas pela central no mês.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Fumaça detectada",
+          "Sirene acionada",
+          "Ambos os eventos"
+        ],
+        "series": [
+          {
+            "name": "Número de ocorrências",
+            "values": [
+              18,
+              25,
+              14
+            ]
+          }
+        ],
+        "x_label": "Tipo de ocorrência",
+        "y_label": "Ocorrências"
+      }
+    },
+    {
       "id": "qx-qx-0f9c65323ec8",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-0f9c65323ec8.svg",
