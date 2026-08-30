@@ -289,6 +289,35 @@
         "x_label": "Tipo de registro",
         "y_label": "Quantidade"
       }
+    },
+    {
+      "id": "qx-qx-7b7860a1b610",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-7b7860a1b610.svg",
+      "alt_text": "Gráfico de barras com preço do material: janeiro R$ 100,00 e fevereiro R$ 120,00.",
+      "caption": "Preço do material em dois meses.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "labels": [
+          "Janeiro",
+          "Fevereiro"
+        ],
+        "series": [
+          {
+            "name": "Preço (R$)",
+            "values": [
+              100,
+              120
+            ]
+          }
+        ],
+        "x_label": "Mês",
+        "y_label": "Preço em reais"
+      }
     }
   ]
 }
