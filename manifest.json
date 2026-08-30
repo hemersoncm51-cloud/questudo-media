@@ -1253,6 +1253,43 @@
       }
     },
     {
+      "id": "qx-qx-b65d37038b1b",
+      "visual_type": "map",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-b65d37038b1b.svg",
+      "alt_text": "Mapa esquemático da América portuguesa: seta 1 sai de São Paulo em direção ao interior; seta 2 percorre o sertão nordestino; seta 3 acompanha rios para o oeste.",
+      "caption": "Movimentos de interiorização na América portuguesa.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "schematic_map",
+        "labels": [
+          "Vila de São Paulo",
+          "Interior centro-sul",
+          "Sertão nordestino",
+          "Rios do interior",
+          "Litoral atlântico"
+        ],
+        "series": [
+          {
+            "name": "Movimentos",
+            "values": [
+              "Seta 1: bandeiras para o interior",
+              "Seta 2: pecuária pelo sertão",
+              "Seta 3: expedições pelos rios",
+              "Áreas alcançadas pelos deslocamentos",
+              "Faixa inicial de ocupação"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": []
+      }
+    },
+    {
       "id": "qx-qx-c508e72993de",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-c508e72993de.svg",
