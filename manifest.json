@@ -1345,6 +1345,48 @@
       }
     },
     {
+      "id": "qx-qx-7194afc6b747",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-7194afc6b747.svg",
+      "alt_text": "Tabela de promoção: etapa 1, desconto de 20%, incidência sobre o preço inicial; etapa 2, desconto de 10%, incidência sobre o preço após a etapa 1.",
+      "caption": "Etapas da promoção da impressora",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Etapa 1",
+          "Etapa 2"
+        ],
+        "series": [
+          {
+            "name": "Desconto",
+            "values": [
+              "20%",
+              "10%"
+            ]
+          },
+          {
+            "name": "Base de cálculo",
+            "values": [
+              "Preço inicial",
+              "Preço após a etapa 1"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A tabela informa que o desconto de 10% incide sobre o preço já reduzido, condição indispensável ao cálculo."
+      }
+    },
+    {
       "id": "qx-qx-742a8953cf96",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-742a8953cf96.svg",
