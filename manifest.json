@@ -289,6 +289,40 @@
       }
     },
     {
+      "id": "qx-qx-19a9d59a8715",
+      "visual_type": "illustration",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-19a9d59a8715.svg",
+      "alt_text": "Tirinha em dois quadros. Quadro 1: sala escura, uma estudante olha para o celular sem sinal e diz: “Que desastre! Sem internet, estou desconectada do mundo.” Quadro 2: a avó acende uma lanterna e responde sorrindo: “Ótimo. Então vamos nos conectar aqui na sala.”",
+      "caption": "Tirinha autoral.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comic_strip",
+        "labels": [
+          "Quadro 1",
+          "Quadro 2"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [
+          {
+            "title": "Quadro 1",
+            "scene": "Sala escura durante uma queda de energia; estudante olha para o celular sem sinal.",
+            "dialogue": "Estudante: “Que desastre! Sem internet, estou desconectada do mundo.”"
+          },
+          {
+            "title": "Quadro 2",
+            "scene": "A avó acende uma lanterna e se senta ao lado da estudante.",
+            "dialogue": "Avó: “Ótimo. Então vamos nos conectar aqui na sala.”"
+          }
+        ]
+      }
+    },
+    {
       "id": "qx-qx-1a68a576bc0b",
       "visual_type": "table",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-1a68a576bc0b.svg",
