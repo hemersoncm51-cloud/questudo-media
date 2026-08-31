@@ -919,6 +919,121 @@
       }
     },
     {
+      "id": "qx-qx-41aefe2966fe",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-41aefe2966fe.svg",
+      "alt_text": "Tabela de comparação com quatro casos: no caso 1, p e q são V e R é V; no caso 2, p é V, q é F e R é F; no caso 3, p é F, q é V e R é F; no caso 4, p e q são F e R é V.",
+      "caption": "Tabela-verdade da proposição composta R.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Caso 1",
+          "Caso 2",
+          "Caso 3",
+          "Caso 4"
+        ],
+        "series": [
+          {
+            "name": "p",
+            "values": [
+              "V",
+              "V",
+              "F",
+              "F"
+            ]
+          },
+          {
+            "name": "q",
+            "values": [
+              "V",
+              "F",
+              "V",
+              "F"
+            ]
+          },
+          {
+            "name": "R",
+            "values": [
+              "V",
+              "F",
+              "F",
+              "V"
+            ]
+          }
+        ],
+        "x_label": "Casos",
+        "y_label": "Valores de verdade",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "caso1",
+            "label": "Caso 1",
+            "detail": "p=V, q=V, R=V",
+            "x": 100,
+            "y": 100
+          },
+          {
+            "id": "caso2",
+            "label": "Caso 2",
+            "detail": "p=V, q=F, R=F",
+            "x": 100,
+            "y": 1
+          },
+          {
+            "id": "caso3",
+            "label": "Caso 3",
+            "detail": "p=F, q=V, R=F",
+            "x": 100,
+            "y": 2
+          },
+          {
+            "id": "caso4",
+            "label": "Caso 4",
+            "detail": "p=F, q=F, R=V",
+            "x": 100,
+            "y": 3
+          }
+        ],
+        "edges": [
+          {
+            "from": "caso1",
+            "to": "caso2",
+            "label": "ordem dos casos"
+          },
+          {
+            "from": "caso2",
+            "to": "caso3",
+            "label": "ordem dos casos"
+          },
+          {
+            "from": "caso3",
+            "to": "caso4",
+            "label": "ordem dos casos"
+          }
+        ],
+        "legend": [
+          {
+            "label": "V",
+            "meaning": "valor verdadeiro"
+          },
+          {
+            "label": "F",
+            "meaning": "valor falso"
+          },
+          {
+            "label": "R",
+            "meaning": "resultado da proposição composta"
+          }
+        ],
+        "visual_dependency": "A identificação da fórmula depende da comparação dos valores de R com p e q em cada uma das quatro linhas da tabela."
+      }
+    },
+    {
       "id": "qx-qx-444861673c16",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-444861673c16.svg",
