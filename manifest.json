@@ -1592,6 +1592,51 @@
       }
     },
     {
+      "id": "qx-qx-54e61ae2f90e",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-54e61ae2f90e.svg",
+      "alt_text": "Tabela comparativa com três recortes territoriais. Recorte I: vegetação nativa remanescente 27%; lavouras temporárias 38%. Recorte II: vegetação nativa remanescente 46%; lavouras temporárias 21%. Recorte III: vegetação nativa remanescente 61%; lavouras temporárias 12%.",
+      "caption": "Uso do solo em recortes territoriais brasileiros.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Recorte I",
+          "Recorte II",
+          "Recorte III"
+        ],
+        "series": [
+          {
+            "name": "Vegetação nativa remanescente",
+            "values": [
+              "27%",
+              "46%",
+              "61%"
+            ]
+          },
+          {
+            "name": "Lavouras temporárias",
+            "values": [
+              "38%",
+              "21%",
+              "12%"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "Percentual da área",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A solução exige comparar os percentuais de vegetação nativa e lavouras exibidos na tabela."
+      }
+    },
+    {
       "id": "qx-qx-557d9c4a8f74",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-557d9c4a8f74.svg",
