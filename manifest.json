@@ -2204,6 +2204,122 @@
       }
     },
     {
+      "id": "qx-qx-968713c78d04",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-968713c78d04.svg",
+      "alt_text": "Tabela comparativa dos lotes de kits de leitura: lote A, 24 unidades, R$ 18,00 e perda de 5%; lote B, 30 unidades, R$ 20,00 e perda de 10%; lote C, 40 unidades, R$ 24,00 e perda de 20%.",
+      "caption": "Dados dos lotes para calcular o custo por unidade aproveitável.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Lote A",
+          "Lote B",
+          "Lote C"
+        ],
+        "series": [
+          {
+            "name": "Unidades no lote",
+            "values": [
+              "24",
+              "30",
+              "40"
+            ]
+          },
+          {
+            "name": "Preço do lote",
+            "values": [
+              "R$ 18,00",
+              "R$ 20,00",
+              "R$ 24,00"
+            ]
+          },
+          {
+            "name": "Perda prevista",
+            "values": [
+              "5%",
+              "10%",
+              "20%"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "tabela",
+            "label": "Tabela dos lotes",
+            "detail": "Apresenta unidades, preço e perda prevista para os lotes A, B e C.",
+            "x": 0,
+            "y": 0
+          },
+          {
+            "id": "aproveitaveis",
+            "label": "Unidades aproveitáveis",
+            "detail": "Quantidade inicial multiplicada pela parcela que não foi perdida.",
+            "x": 1,
+            "y": 1
+          },
+          {
+            "id": "custo",
+            "label": "Custo por unidade aproveitável",
+            "detail": "Preço do lote dividido pela quantidade aproveitável.",
+            "x": 2,
+            "y": 1
+          },
+          {
+            "id": "comparacao",
+            "label": "Menor custo",
+            "detail": "Comparação dos três custos unitários calculados.",
+            "x": 3,
+            "y": 1
+          }
+        ],
+        "edges": [
+          {
+            "from": "tabela",
+            "to": "aproveitaveis",
+            "label": "unidades e perda"
+          },
+          {
+            "from": "tabela",
+            "to": "custo",
+            "label": "preço"
+          },
+          {
+            "from": "aproveitaveis",
+            "to": "custo",
+            "label": "denominador"
+          },
+          {
+            "from": "custo",
+            "to": "comparacao",
+            "label": "comparar quocientes"
+          }
+        ],
+        "legend": [
+          {
+            "label": "Unidades no lote",
+            "meaning": "Quantidade inicial de itens de cada lote."
+          },
+          {
+            "label": "Preço do lote",
+            "meaning": "Valor total pago pelo lote."
+          },
+          {
+            "label": "Perda prevista",
+            "meaning": "Percentual de unidades que não poderá ser aproveitado."
+          }
+        ],
+        "visual_dependency": "A tabela fornece, para cada lote, a quantidade inicial, o preço e a perda percentual. Esses três valores são indispensáveis para obter a quantidade aproveitável e comparar os custos unitários."
+      }
+    },
+    {
       "id": "qx-qx-9d95c7e9e166",
       "visual_type": "table",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-9d95c7e9e166.svg",
