@@ -3163,6 +3163,80 @@
       }
     },
     {
+      "id": "qx-qx-b7bb63e028b6",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-b7bb63e028b6.svg",
+      "alt_text": "Fluxo espacial em quatro etapas: Planalto Serrano do interior, com altitudes elevadas; rios de maior declive; vales que conduzem materiais para leste; e planície litorânea próxima ao oceano, de baixa altitude. As setas seguem continuamente do planalto para a planície.",
+      "caption": "Percurso simplificado de materiais do interior serrano capixaba até a planície litorânea.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "flow_diagram",
+        "labels": [
+          "Planalto serrano",
+          "Rios de maior declive",
+          "Vales do interior",
+          "Planície litorânea"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "n1",
+            "label": "Planalto serrano",
+            "detail": "Área elevada do interior do Espírito Santo, onde se originam cursos d’água.",
+            "x": 70,
+            "y": 90
+          },
+          {
+            "id": "n2",
+            "label": "Rios de maior declive",
+            "detail": "Trechos com fluxo mais energético, capazes de transportar materiais.",
+            "x": 25,
+            "y": 0
+          },
+          {
+            "id": "n3",
+            "label": "Vales do interior",
+            "detail": "Corredores rebaixados que conduzem a drenagem em direção ao litoral.",
+            "x": 70,
+            "y": 0
+          },
+          {
+            "id": "n4",
+            "label": "Planície litorânea",
+            "detail": "Área baixa próxima ao oceano, com menor declividade e acúmulo sedimentar.",
+            "x": 70,
+            "y": 0
+          }
+        ],
+        "edges": [
+          {
+            "from": "n1",
+            "to": "n2",
+            "label": "escoamento"
+          },
+          {
+            "from": "n2",
+            "to": "n3",
+            "label": "transporte"
+          },
+          {
+            "from": "n3",
+            "to": "n4",
+            "label": "deposição"
+          }
+        ],
+        "legend": [],
+        "visual_dependency": "O diagrama mostra a sequência espacial entre relevo elevado, trechos fluviais e planície litorânea; essa posição no percurso é necessária para identificar onde a declividade diminui."
+      }
+    },
+    {
       "id": "qx-qx-bd76fb5b394a",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-bd76fb5b394a.svg",
