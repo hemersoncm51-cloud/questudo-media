@@ -3198,6 +3198,102 @@
       }
     },
     {
+      "id": "qx-qx-f5c0902e531c",
+      "visual_type": "illustration",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-f5c0902e531c.svg",
+      "alt_text": "Tirinha em dois quadros. No primeiro, no pátio da escola, uma estudante pede um lugar silencioso para ler e uma colega aponta uma porta com a placa “Sala do Silêncio”. No segundo, dentro da sala, um liquidificador e um secador estão ligados sobre uma mesa; a estudante reage ao ruído.",
+      "caption": "Tirinha autoral sobre o contraste entre uma placa e a situação mostrada.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comic_strip",
+        "labels": [
+          "Quadro 1: procura por silêncio",
+          "Quadro 2: contraste com o ruído"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [
+          {
+            "title": "Quadro 1",
+            "scene": "No pátio da escola, uma estudante procura um local tranquilo; uma colega aponta para uma porta com a placa “Sala do Silêncio”.",
+            "dialogue": "Estudante: “Preciso de um lugar silencioso para ler.”"
+          },
+          {
+            "title": "Quadro 2",
+            "scene": "Dentro da sala, um liquidificador e um secador estão ligados sobre uma mesa.",
+            "dialogue": "Estudante: “Este silêncio está fazendo meus pensamentos pedir socorro.”"
+          }
+        ],
+        "nodes": [
+          {
+            "id": "estudante",
+            "label": "Estudante",
+            "detail": "Procura um local silencioso para ler.",
+            "x": 20,
+            "y": 55
+          },
+          {
+            "id": "placa",
+            "label": "Placa: Sala do Silêncio",
+            "detail": "Cria a expectativa de tranquilidade.",
+            "x": 55,
+            "y": 25
+          },
+          {
+            "id": "aparelhos",
+            "label": "Liquidificador e secador ligados",
+            "detail": "Produzem o ruído que contradiz a placa.",
+            "x": 55,
+            "y": 75
+          },
+          {
+            "id": "fala_final",
+            "label": "Fala final da estudante",
+            "detail": "Reage ironicamente ao contraste visual.",
+            "x": 85,
+            "y": 75
+          }
+        ],
+        "edges": [
+          {
+            "from": "estudante",
+            "to": "placa",
+            "label": "recebe a indicação"
+          },
+          {
+            "from": "placa",
+            "to": "aparelhos",
+            "label": "expectativa contrariada por"
+          },
+          {
+            "from": "aparelhos",
+            "to": "fala_final",
+            "label": "motiva"
+          }
+        ],
+        "legend": [
+          {
+            "label": "Placa",
+            "meaning": "Informação que anuncia silêncio."
+          },
+          {
+            "label": "Aparelhos ligados",
+            "meaning": "Fonte visual do ruído."
+          },
+          {
+            "label": "Fala final",
+            "meaning": "Reação irônica que produz o humor."
+          }
+        ],
+        "visual_dependency": "A interpretação depende da tirinha: a placa “Sala do Silêncio” cria uma expectativa que é contrariada, no quadro seguinte, pelo liquidificador e pelo secador ligados; a fala final reage a esse contraste."
+      }
+    },
+    {
       "id": "qx-qx-fc8002d68c89",
       "visual_type": "diagram",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-fc8002d68c89.svg",
