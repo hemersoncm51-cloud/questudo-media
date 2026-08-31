@@ -703,6 +703,51 @@
       }
     },
     {
+      "id": "qx-qx-27a04728733b",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-27a04728733b.svg",
+      "alt_text": "Tabela comparativa com três linhas: chuvas — ch — duas letras representam um som consonantal; preservação — pr — p e r são pronunciados em sequência; reflorestar — re- — prefixo com ideia de repetição.",
+      "caption": "Marcas fonológicas e morfológicas em palavras da campanha.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "chuvas",
+          "preservação",
+          "reflorestar"
+        ],
+        "series": [
+          {
+            "name": "Marca linguística",
+            "values": [
+              "ch",
+              "pr",
+              "re-"
+            ]
+          },
+          {
+            "name": "Observação",
+            "values": [
+              "Duas letras representam um som consonantal",
+              "P e r são pronunciados em sequência",
+              "Prefixo com ideia de repetição"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A tabela informa, para cada palavra, a marca linguística e a observação necessária para distinguir dígrafo, encontro consonantal e derivação prefixal."
+      }
+    },
+    {
       "id": "qx-qx-27d65d56f2c6",
       "visual_type": "table",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-27d65d56f2c6.svg",
