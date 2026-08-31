@@ -2330,6 +2330,72 @@
       }
     },
     {
+      "id": "qx-qx-af58a42da422",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-af58a42da422.svg",
+      "alt_text": "Diagrama em fluxo do interior para o litoral: Serrana capixaba, com altitudes elevadas e encostas íngremes; Tabuleiros costeiros, com relevo suavemente ondulado; Planície litorânea, baixa e quase plana. Setas unem os três setores nessa ordem.",
+      "caption": "Esquema simplificado do relevo capixaba do interior em direção ao litoral.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "flow_diagram",
+        "labels": [
+          "Serrana capixaba",
+          "Tabuleiros costeiros",
+          "Planície litorânea"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "serrana",
+            "label": "Serrana capixaba",
+            "detail": "Interior: altitudes elevadas e encostas íngremes.",
+            "x": 100,
+            "y": 90
+          },
+          {
+            "id": "tabuleiros",
+            "label": "Tabuleiros costeiros",
+            "detail": "Setor intermediário: relevo suavemente ondulado.",
+            "x": 36,
+            "y": 70
+          },
+          {
+            "id": "planicie",
+            "label": "Planície litorânea",
+            "detail": "Setor final: baixa altitude e superfície quase plana.",
+            "x": 36,
+            "y": 35
+          }
+        ],
+        "edges": [
+          {
+            "from": "serrana",
+            "to": "tabuleiros",
+            "label": "redução da altitude"
+          },
+          {
+            "from": "tabuleiros",
+            "to": "planicie",
+            "label": "menor declividade"
+          }
+        ],
+        "legend": [
+          {
+            "label": "Sentido do fluxo",
+            "meaning": "Do interior em direção ao litoral."
+          }
+        ],
+        "visual_dependency": "A resposta depende da redução de altitude e de declividade entre os setores, exibida pelas setas do diagrama."
+      }
+    },
+    {
       "id": "qx-qx-b0847f6b163d",
       "visual_type": "table",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-b0847f6b163d.svg",
