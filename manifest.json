@@ -2395,6 +2395,48 @@
       }
     },
     {
+      "id": "qx-qx-a909b5a7d872",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-a909b5a7d872.svg",
+      "alt_text": "Tabela comparativa: Região Serrana — atividade associada: turismo de montanha; ponto de atenção: pressão sobre trilhas. Região Litorânea — atividade associada: turismo de praia; ponto de atenção: resíduos em alta temporada.",
+      "caption": "Recortes turísticos e pontos de atenção ambiental no Espírito Santo.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Região Serrana",
+          "Região Litorânea"
+        ],
+        "series": [
+          {
+            "name": "Atividade associada",
+            "values": [
+              "Turismo de montanha",
+              "Turismo de praia"
+            ]
+          },
+          {
+            "name": "Ponto de atenção",
+            "values": [
+              "Pressão sobre trilhas",
+              "Resíduos em alta temporada"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A resposta exige identificar, na linha da região Serrana, a associação entre turismo de montanha e pressão sobre trilhas."
+      }
+    },
+    {
       "id": "qx-qx-a97ee04234ad",
       "visual_type": "map",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-a97ee04234ad.svg",
