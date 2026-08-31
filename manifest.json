@@ -86,6 +86,63 @@
       }
     },
     {
+      "id": "qx-comic-lp-referencia-v2",
+      "visual_type": "illustration",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-comic-lp-referencia-v2.png",
+      "alt_text": "Tirinha de três quadros na biblioteca. Dona Célia diz que Bia emprestou um livro; Lia afirma que ela vai buscá-lo amanhã; Dona Célia pergunta quem vai buscar o livro.",
+      "caption": "O pronome “ela” pode gerar ambiguidade quando há mais de um referente feminino no contexto.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1702,
+      "height": 924,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comic_strip",
+        "labels": [
+          "Quadro 1",
+          "Quadro 2",
+          "Quadro 3"
+        ],
+        "series": [],
+        "panels": [
+          {
+            "title": "Empréstimo",
+            "scene": "Na biblioteca, Dona Célia entrega a Lia o mesmo livro azul e informa quem o emprestou.",
+            "dialogue": "Bia emprestou este livro.",
+            "characters": [
+              "lia",
+              "dona_celia"
+            ],
+            "speaker": "dona_celia"
+          },
+          {
+            "title": "Aviso",
+            "scene": "Lia segura o livro azul e fala sobre a pessoa que irá buscá-lo no dia seguinte.",
+            "dialogue": "Ela vai buscá-lo amanhã.",
+            "characters": [
+              "lia",
+              "dona_celia"
+            ],
+            "speaker": "lia"
+          },
+          {
+            "title": "Dúvida",
+            "scene": "Dona Célia demonstra dúvida sobre o referente do pronome usado por Lia.",
+            "dialogue": "Quem vai buscá-lo?",
+            "characters": [
+              "lia",
+              "dona_celia"
+            ],
+            "speaker": "dona_celia"
+          }
+        ],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A menção a Bia, a presença de Dona Célia e a pergunta final são necessárias para reconhecer a ambiguidade de “ela”."
+      }
+    },
+    {
       "id": "qx-comic-lp-virgulas-v1",
       "visual_type": "illustration",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-comic-lp-virgulas-v1.png",
