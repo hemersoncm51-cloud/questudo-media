@@ -2954,6 +2954,50 @@
       }
     },
     {
+      "id": "qx-qx-bd76fb5b394a",
+      "visual_type": "chart",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-bd76fb5b394a.svg",
+      "alt_text": "Gráfico de barras com quatro categorias: Segunda, 18 inscrições; Terça, 22; Quarta, 26; Quinta, 34.",
+      "caption": "Inscrições confirmadas nos quatro primeiros dias de divulgação.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "bar",
+        "visual_format": "chart",
+        "labels": [
+          "Segunda",
+          "Terça",
+          "Quarta",
+          "Quinta"
+        ],
+        "series": [
+          {
+            "name": "Inscrições confirmadas",
+            "values": [
+              "18",
+              "22",
+              "26",
+              "34"
+            ]
+          }
+        ],
+        "x_label": "Dia de divulgação",
+        "y_label": "Número de inscrições",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [
+          {
+            "label": "Inscrições confirmadas",
+            "meaning": "Altura de cada barra: quantidade de inscrições confirmadas no dia indicado."
+          }
+        ],
+        "visual_dependency": "As quantidades apresentadas nas barras do gráfico são indispensáveis para obter o total de segunda a quinta e calcular a projeção de sexta-feira."
+      }
+    },
+    {
       "id": "qx-qx-c25d0779f758",
       "visual_type": "table",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-c25d0779f758.svg",
