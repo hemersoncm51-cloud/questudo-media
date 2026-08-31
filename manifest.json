@@ -1537,6 +1537,93 @@
       }
     },
     {
+      "id": "qx-qx-6878b8e1f530",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-6878b8e1f530.svg",
+      "alt_text": "Tabela comparativa com três propostas para o mesmo equipamento. Proposta A: entrada de R$ 500,00 e 10 parcelas de R$ 180,00. Proposta B: entrada de R$ 300,00 e 12 parcelas de R$ 165,00. Proposta C: entrada de R$ 700,00 e 8 parcelas de R$ 205,00.",
+      "caption": "Propostas de pagamento do equipamento",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Proposta A",
+          "Proposta B",
+          "Proposta C"
+        ],
+        "series": [
+          {
+            "name": "Entrada",
+            "values": [
+              "R$ 500,00",
+              "R$ 300,00",
+              "R$ 700,00"
+            ]
+          },
+          {
+            "name": "Parcelamento",
+            "values": [
+              "10 × R$ 180,00",
+              "12 × R$ 165,00",
+              "8 × R$ 205,00"
+            ]
+          }
+        ],
+        "x_label": "Propostas",
+        "y_label": "Valores de entrada e parcelamento",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "a",
+            "label": "Proposta A",
+            "detail": "Entrada de R$ 500,00; 10 parcelas de R$ 180,00.",
+            "x": 1,
+            "y": 1
+          },
+          {
+            "id": "b",
+            "label": "Proposta B",
+            "detail": "Entrada de R$ 300,00; 12 parcelas de R$ 165,00.",
+            "x": 2,
+            "y": 1
+          },
+          {
+            "id": "c",
+            "label": "Proposta C",
+            "detail": "Entrada de R$ 700,00; 8 parcelas de R$ 205,00.",
+            "x": 3,
+            "y": 1
+          }
+        ],
+        "edges": [
+          {
+            "from": "a",
+            "to": "b",
+            "label": "comparar desembolso total"
+          },
+          {
+            "from": "b",
+            "to": "c",
+            "label": "comparar desembolso total"
+          }
+        ],
+        "legend": [
+          {
+            "label": "Entrada",
+            "meaning": "Valor pago no início da compra."
+          },
+          {
+            "label": "Parcelamento",
+            "meaning": "Quantidade de parcelas multiplicada pelo valor de cada parcela."
+          }
+        ],
+        "visual_dependency": "O quadro comparativo é indispensável: seus valores de entrada e parcelamento devem ser somados para calcular e comparar os desembolsos totais."
+      }
+    },
+    {
       "id": "qx-qx-69995e6b2ee8",
       "visual_type": "table",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-69995e6b2ee8.svg",
