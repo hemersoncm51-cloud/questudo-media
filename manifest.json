@@ -3345,6 +3345,55 @@
       }
     },
     {
+      "id": "qx-qx-e0f7d9f20ffe",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-e0f7d9f20ffe.svg",
+      "alt_text": "Tabela comparativa. Período I: inventário de edificações históricas; ações conduzidas por técnicos; resultado: prédios registrados. Período II: inventário de edificações e práticas culturais; ações com participação de grupos locais; resultado: prédios e celebrações registrados.",
+      "caption": "Formas de proteção de referências culturais em um município capixaba.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Período I",
+          "Período II"
+        ],
+        "series": [
+          {
+            "name": "Inventário",
+            "values": [
+              "Edificações históricas",
+              "Edificações e práticas culturais"
+            ]
+          },
+          {
+            "name": "Ações",
+            "values": [
+              "Conduzidas por técnicos",
+              "Com participação de grupos locais"
+            ]
+          },
+          {
+            "name": "Resultado",
+            "values": [
+              "Prédios registrados",
+              "Prédios e celebrações registrados"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A comparação entre os dois períodos fornece o dado exclusivo de que práticas culturais e seus detentores passaram a integrar a política."
+      }
+    },
+    {
       "id": "qx-qx-e5da9f18c66d",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-e5da9f18c66d.svg",
