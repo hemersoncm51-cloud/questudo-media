@@ -2138,6 +2138,48 @@
       }
     },
     {
+      "id": "qx-qx-8ee068a732a3",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-8ee068a732a3.svg",
+      "alt_text": "Tabela comparativa com duas linhas. Paneleiras de Goiabeiras: bem cultural, saber-fazer da panela de barro; forma de proteção, registro. Convento da Penha: bem cultural, conjunto arquitetônico religioso em Vila Velha; forma de proteção, tombamento.",
+      "caption": "Formas de preservação de dois bens culturais capixabas.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Paneleiras de Goiabeiras",
+          "Convento da Penha"
+        ],
+        "series": [
+          {
+            "name": "Bem cultural",
+            "values": [
+              "Saber-fazer da panela de barro",
+              "Conjunto arquitetônico religioso em Vila Velha"
+            ]
+          },
+          {
+            "name": "Forma de proteção",
+            "values": [
+              "Registro",
+              "Tombamento"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A solução exige comparar, na tabela, o tipo de bem cultural de cada linha com a forma de proteção correspondente."
+      }
+    },
+    {
       "id": "qx-qx-915dcf9ff205",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-915dcf9ff205.svg",
