@@ -3213,6 +3213,59 @@
       }
     },
     {
+      "id": "qx-qx-e006d433e0f5",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-e006d433e0f5.svg",
+      "alt_text": "Tabela comparativa com três enunciados da campanha. Linha 1: “Separe papel, plástico e metal sempre que possível”; marca “sempre que possível”; efeito: orientação adaptada às condições do morador. Linha 2: “Com a colaboração do bairro, as ruas podem permanecer limpas”; marca “podem”; efeito: possibilidade associada à participação coletiva. Linha 3: “Se o lixo ficar nas bocas de lobo, o risco de alagamento aumenta”; marca “se”; efeito: advertência condicional.",
+      "caption": "Marcas linguísticas em enunciados de uma campanha municipal.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Enunciado 1",
+          "Enunciado 2",
+          "Enunciado 3"
+        ],
+        "series": [
+          {
+            "name": "Trecho da campanha",
+            "values": [
+              "Separe papel, plástico e metal sempre que possível.",
+              "Com a colaboração do bairro, as ruas podem permanecer limpas.",
+              "Se o lixo ficar nas bocas de lobo, o risco de alagamento aumenta."
+            ]
+          },
+          {
+            "name": "Marca linguística",
+            "values": [
+              "sempre que possível",
+              "podem",
+              "se"
+            ]
+          },
+          {
+            "name": "Efeito predominante",
+            "values": [
+              "Orientação adaptada às condições do morador.",
+              "Possibilidade ligada à participação coletiva.",
+              "Advertência condicional sobre uma consequência."
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A identificação da relação entre cada marca linguística e seu efeito depende da comparação dos trechos organizados na tabela."
+      }
+    },
+    {
       "id": "qx-qx-e5da9f18c66d",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-e5da9f18c66d.svg",
