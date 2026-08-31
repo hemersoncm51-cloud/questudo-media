@@ -3043,6 +3043,80 @@
       }
     },
     {
+      "id": "qx-qx-c112c015219d",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-c112c015219d.svg",
+      "alt_text": "Fluxo: uma massa de ar úmida do oceano desloca-se para uma montanha; na encosta de barlavento, o ar sobe, resfria, condensa e ocorre chuva; após cruzar o cume, o ar desce pelo sotavento, torna-se mais seco e forma uma área de sombra de chuva.",
+      "caption": "Processo de formação da chuva orográfica e da sombra de chuva.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "flow_diagram",
+        "labels": [
+          "Massa de ar úmida",
+          "Subida no barlavento",
+          "Precipitação",
+          "Descida no sotavento"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "n1",
+            "label": "Massa de ar úmida",
+            "detail": "Ar proveniente do oceano desloca-se em direção à cadeia montanhosa.",
+            "x": 70,
+            "y": 25
+          },
+          {
+            "id": "n2",
+            "label": "Subida no barlavento",
+            "detail": "O relevo força a elevação do ar, que se resfria durante a ascensão.",
+            "x": 25,
+            "y": 55
+          },
+          {
+            "id": "n3",
+            "label": "Precipitação",
+            "detail": "O resfriamento favorece condensação e chuva na encosta voltada ao vento.",
+            "x": 45,
+            "y": 82
+          },
+          {
+            "id": "n4",
+            "label": "Descida no sotavento",
+            "detail": "Depois do cume, o ar desce com menor umidade e favorece sombra de chuva.",
+            "x": 82,
+            "y": 58
+          }
+        ],
+        "edges": [
+          {
+            "from": "n1",
+            "to": "n2",
+            "label": "encontra o relevo"
+          },
+          {
+            "from": "n2",
+            "to": "n3",
+            "label": "resfria e condensa"
+          },
+          {
+            "from": "n3",
+            "to": "n4",
+            "label": "ultrapassa o cume"
+          }
+        ],
+        "legend": [],
+        "visual_dependency": "A localização da precipitação antes da descida no sotavento é o dado necessário para inferir a menor pluviosidade nessa área."
+      }
+    },
+    {
       "id": "qx-qx-c25d0779f758",
       "visual_type": "table",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-c25d0779f758.svg",
