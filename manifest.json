@@ -1298,6 +1298,96 @@
       }
     },
     {
+      "id": "qx-qx-44922cc683a9",
+      "visual_type": "illustration",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-44922cc683a9.svg",
+      "alt_text": "Tirinha em dois quadros. Quadro 1: diante de uma praça com árvores, portão fechado e bancos quebrados, a moradora diz ao servidor: “A praça é do nosso bairro; por que ela está assim?” Quadro 2: o servidor responde: “A reforma foi adiada de novo.” A moradora observa o portão e diz: “Então ela é nossa no mapa, mas não no dia a dia.”",
+      "caption": "Tirinha sobre uso cotidiano de uma praça pública.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comic_strip",
+        "labels": [
+          "Moradora",
+          "Servidor responsável pela praça",
+          "Praça do bairro"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [
+          {
+            "title": "Quadro 1",
+            "scene": "Moradora e servidor conversam diante de uma praça com árvores, portão fechado e bancos quebrados.",
+            "dialogue": "Moradora: “A praça é do nosso bairro; por que ela está assim?”"
+          },
+          {
+            "title": "Quadro 2",
+            "scene": "O servidor informa o adiamento da reforma; a moradora observa a praça fechada.",
+            "dialogue": "Servidor: “A reforma foi adiada de novo.” Moradora: “Então ela é nossa no mapa, mas não no dia a dia.”"
+          }
+        ],
+        "nodes": [
+          {
+            "id": "moradora",
+            "label": "Moradora",
+            "detail": "Defende o pertencimento coletivo da praça e questiona suas condições de uso.",
+            "x": 20,
+            "y": 50
+          },
+          {
+            "id": "servidor",
+            "label": "Servidor",
+            "detail": "Informa que a reforma foi adiada novamente.",
+            "x": 50,
+            "y": 50
+          },
+          {
+            "id": "praca",
+            "label": "Praça fechada",
+            "detail": "Portão fechado e bancos quebrados evidenciam a falta de uso cotidiano.",
+            "x": 80,
+            "y": 50
+          }
+        ],
+        "edges": [
+          {
+            "from": "moradora",
+            "to": "servidor",
+            "label": "questiona a situação da praça"
+          },
+          {
+            "from": "servidor",
+            "to": "moradora",
+            "label": "informa o adiamento da reforma"
+          },
+          {
+            "from": "moradora",
+            "to": "praca",
+            "label": "conclui que o pertencimento formal não garante o uso"
+          }
+        ],
+        "legend": [
+          {
+            "label": "Moradora",
+            "meaning": "Voz que expressa a crítica ao contraste entre a praça ser do bairro e não poder ser usada."
+          },
+          {
+            "label": "Servidor",
+            "meaning": "Personagem que apresenta a causa administrativa do problema."
+          },
+          {
+            "label": "Praça fechada",
+            "meaning": "Elemento visual que confirma a precariedade apontada nas falas."
+          }
+        ],
+        "visual_dependency": "A interpretação depende da tirinha: as falas da moradora, a resposta do servidor e a imagem da praça fechada constroem a oposição entre pertencimento formal e uso efetivo."
+      }
+    },
+    {
       "id": "qx-qx-44dcc531bd74",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-44dcc531bd74.svg",
