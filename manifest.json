@@ -266,6 +266,85 @@
       }
     },
     {
+      "id": "qx-qx-1350e6406369",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-1350e6406369.svg",
+      "alt_text": "Diagrama lógico com quatro nós em sequência: Inspeção aprovada aponta para Laudo assinado; Laudo assinado aponta para Equipamento liberado; Equipamento liberado aponta para Oficina iniciada.",
+      "caption": "Fluxo condicional do procedimento de segurança.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "logical_diagram",
+        "labels": [
+          "Inspeção aprovada",
+          "Laudo assinado",
+          "Equipamento liberado",
+          "Oficina iniciada"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "n1",
+            "label": "Inspeção aprovada",
+            "detail": "A avaliação técnica confirmou as condições de segurança.",
+            "x": 10,
+            "y": 50
+          },
+          {
+            "id": "n2",
+            "label": "Laudo assinado",
+            "detail": "O responsável técnico formalizou o resultado da inspeção.",
+            "x": 35,
+            "y": 50
+          },
+          {
+            "id": "n3",
+            "label": "Equipamento liberado",
+            "detail": "O equipamento recebeu autorização para funcionamento.",
+            "x": 60,
+            "y": 50
+          },
+          {
+            "id": "n4",
+            "label": "Oficina iniciada",
+            "detail": "A atividade prática foi aberta aos participantes.",
+            "x": 85,
+            "y": 50
+          }
+        ],
+        "edges": [
+          {
+            "from": "n1",
+            "to": "n2",
+            "label": "implica"
+          },
+          {
+            "from": "n2",
+            "to": "n3",
+            "label": "implica"
+          },
+          {
+            "from": "n3",
+            "to": "n4",
+            "label": "implica"
+          }
+        ],
+        "legend": [
+          {
+            "label": "Seta",
+            "meaning": "Se a condição de origem ocorre, a condição de destino ocorre."
+          }
+        ],
+        "visual_dependency": "A seta entre “Equipamento liberado” e “Oficina iniciada” é indispensável para aplicar a contraposição."
+      }
+    },
+    {
       "id": "qx-qx-144299159db3",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-144299159db3.svg",
