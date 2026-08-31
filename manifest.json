@@ -29,6 +29,63 @@
       }
     },
     {
+      "id": "qx-comic-lp-virgulas-v1",
+      "visual_type": "illustration",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-comic-lp-virgulas-v1.png",
+      "alt_text": "Tirinha de três quadros. Lia mostra a Caio a frase sem vírgulas; Caio pergunta se todos estudaram; Lia apresenta a versão com vírgulas e pede que ele as observe.",
+      "caption": "O emprego das vírgulas altera o alcance da oração adjetiva.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1704,
+      "height": 923,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comic_strip",
+        "labels": [
+          "Quadro 1",
+          "Quadro 2",
+          "Quadro 3"
+        ],
+        "series": [],
+        "panels": [
+          {
+            "title": "Primeira redação",
+            "scene": "Lia mostra a Caio uma folha com a frase Os alunos que estudaram passaram.",
+            "dialogue": "Os alunos que estudaram passaram.",
+            "characters": [
+              "lia",
+              "caio"
+            ],
+            "speaker": "lia"
+          },
+          {
+            "title": "Questionamento",
+            "scene": "Caio olha para a frase e pede esclarecimento a Lia.",
+            "dialogue": "Todos estudaram?",
+            "characters": [
+              "lia",
+              "caio"
+            ],
+            "speaker": "caio"
+          },
+          {
+            "title": "Segunda redação",
+            "scene": "Lia mostra outra folha com a frase Os alunos, que estudaram, passaram.",
+            "dialogue": "Agora, observe as vírgulas.",
+            "characters": [
+              "lia",
+              "caio"
+            ],
+            "speaker": "lia"
+          }
+        ],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A comparação entre as duas frases nos quadros é indispensável para identificar o efeito semântico das vírgulas."
+      }
+    },
+    {
       "id": "qx-qx-006477bf3fae",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-006477bf3fae.svg",
