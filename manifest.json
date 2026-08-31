@@ -2964,6 +2964,78 @@
         "x_label": "Ramo produtivo",
         "y_label": "Índice de produção"
       }
+    },
+    {
+      "id": "qx-qx-fe618ca1e516",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-fe618ca1e516.svg",
+      "alt_text": "Tabela comparativa entre tombamento e registro. O tombamento protege bem material por inscrição em livro de tombo e preserva sua integridade física. O registro reconhece bem imaterial por inscrição em livro de registro e prevê plano de salvaguarda e transmissão de saberes.",
+      "caption": "Instrumentos de proteção do patrimônio cultural.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Instrumento",
+          "Objeto protegido",
+          "Formalização",
+          "Efeito predominante"
+        ],
+        "series": [
+          {
+            "name": "Tombamento",
+            "values": [
+              "Tombamento",
+              "Bem material",
+              "Inscrição em livro de tombo",
+              "Preservação da integridade física"
+            ]
+          },
+          {
+            "name": "Registro",
+            "values": [
+              "Registro",
+              "Bem imaterial",
+              "Inscrição em livro de registro",
+              "Plano de salvaguarda e transmissão de saberes"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "tombamento",
+            "label": "Tombamento",
+            "detail": "Proteção de bem material com preservação de sua integridade física.",
+            "x": 25,
+            "y": 50
+          },
+          {
+            "id": "registro",
+            "label": "Registro",
+            "detail": "Reconhecimento de bem imaterial com plano de salvaguarda e transmissão de saberes.",
+            "x": 75,
+            "y": 50
+          }
+        ],
+        "edges": [],
+        "legend": [
+          {
+            "label": "Tombamento",
+            "meaning": "Instrumento aplicável a bens culturais materiais."
+          },
+          {
+            "label": "Registro",
+            "meaning": "Instrumento aplicável a referências culturais imateriais."
+          }
+        ],
+        "visual_dependency": "A comparação entre as linhas da tabela permite distinguir a preservação física vinculada ao tombamento da salvaguarda e transmissão de saberes vinculadas ao registro."
+      }
     }
   ]
 }
