@@ -1901,6 +1901,86 @@
       }
     },
     {
+      "id": "qx-qx-a9e3fb4a6512",
+      "visual_type": "illustration",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-a9e3fb4a6512.svg",
+      "alt_text": "Tirinha em dois quadros. No primeiro, uma jovem sentada à mesa com três amigos anuncia uma novidade importante. No segundo, os amigos olham para os celulares; um diz que curtiu a postagem, e a jovem lamenta que ninguém tenha ouvido sua fala.",
+      "caption": "Tirinha autoral sobre atenção em uma conversa.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comic_strip",
+        "labels": [
+          "Quadro 1",
+          "Quadro 2"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [
+          {
+            "title": "Quadro 1 — anúncio",
+            "scene": "Uma jovem está sentada à mesa com três amigos e inicia uma conversa.",
+            "dialogue": "Jovem: “Quero contar uma novidade importante.”"
+          },
+          {
+            "title": "Quadro 2 — distração",
+            "scene": "Os três amigos consultam os celulares; a jovem os observa, frustrada.",
+            "dialogue": "Amigo: “Já curti sua postagem!” Jovem: “Ótimo, agora falta alguém ouvir o que eu disse.”"
+          }
+        ],
+        "nodes": [
+          {
+            "id": "n1",
+            "label": "Anúncio presencial",
+            "detail": "A jovem inicia um relato importante.",
+            "x": 20,
+            "y": 50
+          },
+          {
+            "id": "n2",
+            "label": "Reação digital",
+            "detail": "Um amigo comenta a postagem, não o relato.",
+            "x": 50,
+            "y": 50
+          },
+          {
+            "id": "n3",
+            "label": "Crítica à falsa atenção",
+            "detail": "A resposta da jovem evidencia a ausência de escuta.",
+            "x": 80,
+            "y": 50
+          }
+        ],
+        "edges": [
+          {
+            "from": "n1",
+            "to": "n2",
+            "label": "é ignorado"
+          },
+          {
+            "from": "n2",
+            "to": "n3",
+            "label": "provoca"
+          }
+        ],
+        "legend": [
+          {
+            "label": "Fala da jovem",
+            "meaning": "Representa a tentativa de comunicação presencial."
+          },
+          {
+            "label": "Celulares e comentário do amigo",
+            "meaning": "Representam a atenção deslocada para a interação digital."
+          }
+        ],
+        "visual_dependency": "A resposta depende do contraste entre o anúncio presencial no Quadro 1 e o comentário sobre a postagem no Quadro 2; sem essa sequência visual e verbal, a crítica não se estabelece."
+      }
+    },
+    {
       "id": "qx-qx-b4478a45789e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-b4478a45789e.svg",
