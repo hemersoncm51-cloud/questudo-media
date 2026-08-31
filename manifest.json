@@ -2006,6 +2006,55 @@
       }
     },
     {
+      "id": "qx-qx-9d95c7e9e166",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-9d95c7e9e166.svg",
+      "alt_text": "Tabela comparativa. Linha 1: período 1937–1970; medida principal: tombamento de edifícios e sítios; participação social: consulta técnica; efeito na memória: valorização de referências arquitetônicas. Linha 2: período posterior a 1988; medida principal: inventário participativo e registro de celebrações e saberes; participação social: comunidades e órgãos públicos; efeito na memória: reconhecimento de referências culturais diversas.",
+      "caption": "Comparação entre enfoques de preservação do patrimônio cultural.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "1937–1970",
+          "Posterior a 1988"
+        ],
+        "series": [
+          {
+            "name": "Medida principal",
+            "values": [
+              "Tombamento de edifícios e sítios",
+              "Inventário participativo e registro de celebrações e saberes"
+            ]
+          },
+          {
+            "name": "Participação social",
+            "values": [
+              "Consulta técnica",
+              "Comunidades e órgãos públicos"
+            ]
+          },
+          {
+            "name": "Efeito na memória",
+            "values": [
+              "Valorização de referências arquitetônicas",
+              "Reconhecimento de referências culturais diversas"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A identificação da mudança entre os enfoques depende das medidas e dos efeitos comparados nas duas linhas da tabela."
+      }
+    },
+    {
       "id": "qx-qx-a50e51569c92",
       "visual_type": "map",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-a50e51569c92.svg",
