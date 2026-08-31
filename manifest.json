@@ -368,6 +368,51 @@
       }
     },
     {
+      "id": "qx-qx-19dfb007e169",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-19dfb007e169.svg",
+      "alt_text": "Tabela comparativa com três registros sobre uma manifestação cultural capixaba. Documento administrativo, de 1952: autorização municipal para realização do evento. Fotografia, de 1978: participantes reunidos em espaço público durante a manifestação. Depoimento oral, gravado em 2019: moradora recorda mudanças na participação comunitária ao longo das décadas.",
+      "caption": "Registros selecionados para uma exposição sobre memória social capixaba.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Documento administrativo",
+          "Fotografia",
+          "Depoimento oral"
+        ],
+        "series": [
+          {
+            "name": "Data ou período",
+            "values": [
+              "1952",
+              "1978",
+              "2019"
+            ]
+          },
+          {
+            "name": "Informação principal",
+            "values": [
+              "Autorização municipal para realização do evento",
+              "Participantes reunidos em espaço público",
+              "Moradora recorda mudanças na participação comunitária"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A comparação entre os tipos, as datas e as informações dos três registros é necessária para avaliar o procedimento de interpretação histórica."
+      }
+    },
+    {
       "id": "qx-qx-1a68a576bc0b",
       "visual_type": "table",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-1a68a576bc0b.svg",
