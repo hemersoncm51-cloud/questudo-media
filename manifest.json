@@ -29,6 +29,63 @@
       }
     },
     {
+      "id": "qx-comic-lp-causa-chuva-v1",
+      "visual_type": "illustration",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-comic-lp-causa-chuva-v1.png",
+      "alt_text": "Tirinha de três quadros em um corredor escolar sem luz. Caio nota o apagão; Bia explica que a chuva derrubou a energia; Caio afirma que entendeu.",
+      "caption": "Conversa entre Caio e Bia em um corredor escolar durante a chuva.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1718,
+      "height": 915,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comic_strip",
+        "labels": [
+          "Quadro 1",
+          "Quadro 2",
+          "Quadro 3"
+        ],
+        "series": [],
+        "panels": [
+          {
+            "title": "Apagão",
+            "scene": "No corredor escolar escurecido, Caio percebe que a luz se apagou novamente.",
+            "dialogue": "A luz apagou de novo.",
+            "characters": [
+              "caio",
+              "bia"
+            ],
+            "speaker": "caio"
+          },
+          {
+            "title": "Causa",
+            "scene": "Bia olha a janela coberta de chuva e explica a causa da falta de energia.",
+            "dialogue": "Foi porque a chuva derrubou a energia.",
+            "characters": [
+              "caio",
+              "bia"
+            ],
+            "speaker": "bia"
+          },
+          {
+            "title": "Compreensão",
+            "scene": "Caio compreende a explicação de Bia no mesmo corredor ainda sem luz.",
+            "dialogue": "Agora entendi.",
+            "characters": [
+              "caio",
+              "bia"
+            ],
+            "speaker": "caio"
+          }
+        ],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "O apagão inicial e a fala de Bia são necessários para interpretar a relação estabelecida pela palavra “porque”."
+      }
+    },
+    {
       "id": "qx-comic-lp-ironia-v1",
       "visual_type": "illustration",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-comic-lp-ironia-v1.png",
