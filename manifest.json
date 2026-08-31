@@ -2858,6 +2858,74 @@
       }
     },
     {
+      "id": "qx-qx-aac77b730253",
+      "visual_type": "illustration",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-aac77b730253.svg",
+      "alt_text": "Tirinha em dois quadros. No primeiro, Lara pergunta diante de um mural de inscrições: “O candidato conseguiu concluir a inscrição ontem?”. No segundo, o colega responde: “Ele pôde concluir ontem e pode corrigir um dado hoje.” As palavras “pôde” e “pode” aparecem destacadas.",
+      "caption": "Tirinha que contrasta as formas “pôde” e “pode”.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comic_strip",
+        "labels": [
+          "Quadro 1: pergunta sobre ontem",
+          "Quadro 2: contraste entre pôde e pode"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [
+          {
+            "title": "Quadro 1 — Pergunta",
+            "scene": "Lara e o colega estão diante de um mural de inscrições.",
+            "dialogue": "O candidato conseguiu concluir a inscrição ontem?"
+          },
+          {
+            "title": "Quadro 2 — Resposta",
+            "scene": "O colega aponta para o prazo e para a ficha de inscrição no mural; “pôde” e “pode” estão destacados.",
+            "dialogue": "Ele pôde concluir ontem e pode corrigir um dado hoje."
+          }
+        ],
+        "nodes": [
+          {
+            "id": "ontem",
+            "label": "pôde",
+            "detail": "Ação concluída no passado; forma verbal com circunflexo.",
+            "x": 25,
+            "y": 55
+          },
+          {
+            "id": "hoje",
+            "label": "pode",
+            "detail": "Ação possível no presente; forma verbal sem circunflexo.",
+            "x": 75,
+            "y": 55
+          }
+        ],
+        "edges": [
+          {
+            "from": "ontem",
+            "to": "hoje",
+            "label": "contraste de tempo verbal e de vogal tônica"
+          }
+        ],
+        "legend": [
+          {
+            "label": "Destaque em “pôde”",
+            "meaning": "Indica a forma do pretérito perfeito, com vogal tônica fechada."
+          },
+          {
+            "label": "Destaque em “pode”",
+            "meaning": "Indica a forma do presente, com pronúncia distinta da vogal tônica."
+          }
+        ],
+        "visual_dependency": "A tirinha é o recurso citado no enunciado: a fala do quadro 2 apresenta lado a lado “pôde” e “pode”, contraste indispensável para interpretar o tempo verbal e a vogal tônica."
+      }
+    },
+    {
       "id": "qx-qx-af58a42da422",
       "visual_type": "diagram",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-af58a42da422.svg",
