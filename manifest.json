@@ -522,6 +522,72 @@
       }
     },
     {
+      "id": "qx-qx-1d9cacc9c586",
+      "visual_type": "diagram",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-1d9cacc9c586.svg",
+      "alt_text": "Fluxo de três etapas: usos diversos da praça; necessidade de conciliar circulação, descanso e conservação; mutirões e diálogo para orientar o cuidado cotidiano.",
+      "caption": "Progressão de ideias em um texto de opinião.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "flow_diagram",
+        "labels": [
+          "Usos diversos",
+          "Desafio coletivo",
+          "Proposta"
+        ],
+        "series": [],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [
+          {
+            "id": "n1",
+            "label": "Usos diversos",
+            "detail": "Crianças, idosos e trabalhadores usam a praça em diferentes horários.",
+            "x": 10,
+            "y": 50
+          },
+          {
+            "id": "n2",
+            "label": "Desafio coletivo",
+            "detail": "O movimento exige conciliar circulação, descanso e conservação.",
+            "x": 50,
+            "y": 50
+          },
+          {
+            "id": "n3",
+            "label": "Proposta",
+            "detail": "Mutirões e diálogo entre usuários orientam o cuidado cotidiano.",
+            "x": 90,
+            "y": 50
+          }
+        ],
+        "edges": [
+          {
+            "from": "n1",
+            "to": "n2",
+            "label": "gera"
+          },
+          {
+            "from": "n2",
+            "to": "n3",
+            "label": "orienta"
+          }
+        ],
+        "legend": [
+          {
+            "label": "Setas",
+            "meaning": "Indicam a progressão argumentativa entre observação, consequência e proposta."
+          }
+        ],
+        "visual_dependency": "A direção das relações entre observação, consequência e proposta no fluxo é necessária para inferir a tese defendida."
+      }
+    },
+    {
       "id": "qx-qx-2458ba7ff95e",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-2458ba7ff95e.svg",
