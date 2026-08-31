@@ -1701,6 +1701,54 @@
       }
     },
     {
+      "id": "qx-qx-598d0362e275",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-598d0362e275.svg",
+      "alt_text": "Tabela comparativa com quatro períodos: República Velha, Estado Novo, Ditadura Militar e Redemocratização. Ela informa medidas políticas e seus efeitos institucionais em cada período.",
+      "caption": "Medidas institucionais em períodos da República brasileira.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "República Velha",
+          "Estado Novo",
+          "Ditadura Militar",
+          "Redemocratização"
+        ],
+        "series": [
+          {
+            "name": "Medida ou marco",
+            "values": [
+              "Política dos governadores",
+              "Congresso fechado em 1937",
+              "AI-2 institui bipartidarismo",
+              "Constituição promulgada em 1988"
+            ]
+          },
+          {
+            "name": "Efeito institucional",
+            "values": [
+              "Predomínio das oligarquias estaduais",
+              "Concentração de poderes no Executivo",
+              "Restrição da competição partidária",
+              "Ampliação de direitos e garantias"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A identificação da medida de fechamento do Congresso e do marco constitucional de 1988 depende das informações comparadas na tabela."
+      }
+    },
+    {
       "id": "qx-qx-5caf211ffd6d",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-5caf211ffd6d.svg",
