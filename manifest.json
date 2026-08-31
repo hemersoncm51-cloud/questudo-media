@@ -29,6 +29,63 @@
       }
     },
     {
+      "id": "qx-comic-lp-ironia-v1",
+      "visual_type": "illustration",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-comic-lp-ironia-v1.png",
+      "alt_text": "Tirinha de três quadros em um ponto de ônibus chuvoso. Nando elogia a pontualidade; Bia aponta para o painel com atraso de quarenta minutos; Nando afirma que o painel respondeu por ele.",
+      "caption": "O contraste entre a fala e o painel produz ironia.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 2083,
+      "height": 755,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comic_strip",
+        "labels": [
+          "Quadro 1",
+          "Quadro 2",
+          "Quadro 3"
+        ],
+        "series": [],
+        "panels": [
+          {
+            "title": "Espera",
+            "scene": "Sob chuva, Nando e Bia aguardam no ponto de ônibus; o painel ainda não revela o atraso.",
+            "dialogue": "Que pontualidade exemplar!",
+            "characters": [
+              "nando",
+              "bia"
+            ],
+            "speaker": "nando"
+          },
+          {
+            "title": "Contraste",
+            "scene": "Bia aponta para o painel, que mostra exatamente ATRASO: 40 MIN.",
+            "dialogue": "Exemplar?",
+            "characters": [
+              "nando",
+              "bia"
+            ],
+            "speaker": "bia"
+          },
+          {
+            "title": "Confirmação",
+            "scene": "Nando mantém a expressão crítica diante do painel ATRASO: 40 MIN.",
+            "dialogue": "O painel respondeu por mim.",
+            "characters": [
+              "nando",
+              "bia"
+            ],
+            "speaker": "nando"
+          }
+        ],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A informação de atraso exibida no painel é indispensável para interpretar como irônica a avaliação positiva de Nando."
+      }
+    },
+    {
       "id": "qx-comic-lp-virgulas-v1",
       "visual_type": "illustration",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-comic-lp-virgulas-v1.png",
