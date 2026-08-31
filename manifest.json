@@ -4039,6 +4039,59 @@
       }
     },
     {
+      "id": "qx-qx-fad0b656543e",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-fad0b656543e.svg",
+      "alt_text": "Tabela com três linhas. Em 1943, houve tombamento de edificação histórica, com técnicos e órgãos públicos, para proteger um bem arquitetônico. Em 1998, houve inventário de referências locais, com moradores, associações e técnicos, para documentar lugares e práticas. Em 2010, houve registro de celebração e saberes, com grupos detentores e poder público, para valorizar práticas transmitidas.",
+      "caption": "Formas de preservação e participação social em referências capixabas.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "1943",
+          "1998",
+          "2010"
+        ],
+        "series": [
+          {
+            "name": "Iniciativa",
+            "values": [
+              "Tombamento de edificação histórica",
+              "Inventário de referências locais",
+              "Registro de celebração e saberes"
+            ]
+          },
+          {
+            "name": "Participantes",
+            "values": [
+              "Técnicos e órgãos públicos",
+              "Moradores, associações e técnicos",
+              "Grupos detentores e poder público"
+            ]
+          },
+          {
+            "name": "Efeito predominante",
+            "values": [
+              "Proteção de bem arquitetônico",
+              "Documentação de lugares e práticas",
+              "Valorização de práticas transmitidas"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A comparação entre iniciativas, participantes e efeitos nas três linhas é indispensável para inferir a ampliação das práticas de preservação."
+      }
+    },
+    {
       "id": "qx-qx-fc8002d68c89",
       "visual_type": "diagram",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-fc8002d68c89.svg",
