@@ -1422,6 +1422,59 @@
       }
     },
     {
+      "id": "qx-qx-69995e6b2ee8",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-69995e6b2ee8.svg",
+      "alt_text": "Tabela comparativa com Região Serrana, Vale do Rio Doce e Norte de tabuleiros; apresenta relevo, drenagem e cobertura vegetal.",
+      "caption": "Características físicas selecionadas de áreas do Espírito Santo.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Região Serrana",
+          "Vale do Rio Doce",
+          "Norte de tabuleiros"
+        ],
+        "series": [
+          {
+            "name": "Relevo predominante",
+            "values": [
+              "Montanhoso",
+              "Vales e colinas",
+              "Superfícies tabulares"
+            ]
+          },
+          {
+            "name": "Drenagem destacada",
+            "values": [
+              "Nascentes dos rios Jucu e Santa Maria da Vitória",
+              "Rio Doce",
+              "Rios São Mateus e Itaúnas"
+            ]
+          },
+          {
+            "name": "Cobertura vegetal",
+            "values": [
+              "Mata Atlântica",
+              "Mata ciliar e fragmentos florestais",
+              "Floresta de tabuleiro e áreas agropecuárias"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A resposta exige comparar, na tabela, o relevo montanhoso da Região Serrana com a indicação de nascentes."
+      }
+    },
+    {
       "id": "qx-qx-6aa33cacea47",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-6aa33cacea47.svg",
