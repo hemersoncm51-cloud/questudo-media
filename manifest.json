@@ -2614,6 +2614,55 @@
       }
     },
     {
+      "id": "qx-qx-d5e545c3b68c",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-d5e545c3b68c.svg",
+      "alt_text": "Tabela comparativa com duas linhas. Trecho 1: “Você pode escolher um livro hoje.” Marca linguística: verbo “pode”. Função no aviso: apresentar possibilidade ao leitor. Trecho 2: “Amanhã, conversamos sobre a leitura.” Marca linguística: advérbio “amanhã”. Função no aviso: projetar continuidade da atividade.",
+      "caption": "Marcas linguísticas em dois trechos de uma campanha de biblioteca.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "Trecho 1",
+          "Trecho 2"
+        ],
+        "series": [
+          {
+            "name": "Enunciado",
+            "values": [
+              "Você pode escolher um livro hoje.",
+              "Amanhã, conversamos sobre a leitura."
+            ]
+          },
+          {
+            "name": "Marca linguística",
+            "values": [
+              "Verbo “pode”",
+              "Advérbio “amanhã”"
+            ]
+          },
+          {
+            "name": "Função no aviso",
+            "values": [
+              "Apresentar possibilidade ao leitor",
+              "Projetar continuidade da atividade"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A resposta depende de comparar, na tabela, a marca “pode” como possibilidade e “amanhã” como projeção de continuidade."
+      }
+    },
+    {
       "id": "qx-qx-db8ea55386fd",
       "visual_type": "diagram",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/diagrams/qx-qx-db8ea55386fd.svg",
