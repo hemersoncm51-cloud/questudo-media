@@ -2477,6 +2477,54 @@
       }
     },
     {
+      "id": "qx-qx-925c446cef36",
+      "visual_type": "table",
+      "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/tables/qx-qx-925c446cef36.svg",
+      "alt_text": "Tabela comparativa com quatro períodos da história republicana brasileira, suas características políticas e seus marcos institucionais.",
+      "caption": "Marcos institucionais em períodos da história republicana brasileira.",
+      "source": "Elaboração própria — Questudo",
+      "license": "Uso autorizado no Questudo",
+      "width": 1200,
+      "height": 800,
+      "chart_data": {
+        "chart_type": "none",
+        "visual_format": "comparison_table",
+        "labels": [
+          "República Velha (1889-1930)",
+          "Governo Vargas (1930-1945)",
+          "Regime Militar (1964-1985)",
+          "Redemocratização (1985-1988)"
+        ],
+        "series": [
+          {
+            "name": "Característica política",
+            "values": [
+              "Predomínio das oligarquias estaduais",
+              "Centralização e Estado Novo a partir de 1937",
+              "Restrição de direitos políticos",
+              "Reconstrução das instituições democráticas"
+            ]
+          },
+          {
+            "name": "Marco institucional",
+            "values": [
+              "Constituição de 1891",
+              "Constituição de 1937",
+              "AI-5, de 1968",
+              "Assembleia Constituinte de 1987-1988"
+            ]
+          }
+        ],
+        "x_label": "",
+        "y_label": "",
+        "panels": [],
+        "nodes": [],
+        "edges": [],
+        "legend": [],
+        "visual_dependency": "A comparação entre o AI-5, no Regime Militar, e a Assembleia Constituinte, na Redemocratização, é indispensável para identificar a mudança política."
+      }
+    },
+    {
       "id": "qx-qx-93885984433a",
       "visual_type": "chart",
       "media": "https://hemersoncm51-cloud.github.io/questudo-media/assets/charts/qx-qx-93885984433a.svg",
